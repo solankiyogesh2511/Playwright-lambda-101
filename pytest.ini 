@@ -1,0 +1,11 @@
+[pytest]
+addopts = --tracing=on --video=on --screenshot=on --html=./report/test_result.html --self-contained-html --maxfail=1 --disable-warnings -q
+generate_report_on_test = True
+console_output_style = classic
+render_collapsed = failed, error
+
+[Logs]
+log_path = logs/test
+log_cli = True
+log_cli_level = INFO
+log_file_date_format = %d_%m_%y %I:%M:%S %P
