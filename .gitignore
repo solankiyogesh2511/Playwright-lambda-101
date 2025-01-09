@@ -1,2 +1,4 @@
-logs/default.log
-report/report.html
+logs/*
+report/*
+tests/__pycache__/
+helper/__pycache__/*
