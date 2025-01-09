@@ -4,12 +4,16 @@ execnet==2.1.1
 greenlet==3.1.1
 idna==3.10
 iniconfig==2.0.0
+Jinja2==3.1.5
+MarkupSafe==3.0.2
 packaging==24.2
 playwright==1.49.1
 pluggy==1.5.0
 pyee==12.0.0
 pytest==8.3.4
 pytest-base-url==2.1.0
+pytest-html==4.1.1
+pytest-metadata==3.1.1
 pytest-playwright==0.6.2
 pytest-xdist==3.6.1
 python-slugify==8.0.4
