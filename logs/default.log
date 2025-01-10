@@ -1,0 +1,571 @@
+10_01_25 11:00:43 am - log_info - INFO - Test to validate interaction with Simple Form Demo on LambdaTest Playground.
+10_01_25 11:00:45 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+10_01_25 11:00:46 am - log_info - INFO - Clicked on the Simple Form Demo link
+10_01_25 11:00:46 am - log_info - INFO - Validated that the URL contains 'simple-form-demo'
+10_01_25 11:00:46 am - log_info - INFO - Entered the message: Welcome to LambdaTest
+10_01_25 11:00:46 am - log_info - INFO - Clicked on the Get Checked Value button
+10_01_25 11:00:46 am - log_info - INFO - Validated the message 'Welcome to LambdaTest' in the Your Message section
+10_01_25 11:00:46 am - log_info - INFO - Test to Drag & Drop Sliders on LambdaTest Playground
+10_01_25 11:00:46 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+10_01_25 11:00:46 am - log_info - INFO - Validated the visibility of the Drag & Drop Sliders link
+10_01_25 11:00:47 am - log_info - INFO - Clicked on the Drag & Drop Sliders link
+10_01_25 11:00:47 am - log_info - INFO - Selected the slider 'Default value 15'
+10_01_25 11:00:47 am - log_info - INFO - Current value of the slider: 15
+10_01_25 11:00:47 am - log_info - INFO - Target value of the slider: 95
+10_01_25 11:00:47 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:47 am - log_info - INFO - Updated the slider value to: 16
+10_01_25 11:00:47 am - log_info - INFO - Slider value updated to: 16
+10_01_25 11:00:47 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:47 am - log_info - INFO - Updated the slider value to: 17
+10_01_25 11:00:47 am - log_info - INFO - Slider value updated to: 17
+10_01_25 11:00:47 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:47 am - log_info - INFO - Updated the slider value to: 18
+10_01_25 11:00:47 am - log_info - INFO - Slider value updated to: 18
+10_01_25 11:00:47 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:47 am - log_info - INFO - Updated the slider value to: 19
+10_01_25 11:00:47 am - log_info - INFO - Slider value updated to: 19
+10_01_25 11:00:47 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:47 am - log_info - INFO - Updated the slider value to: 20
+10_01_25 11:00:47 am - log_info - INFO - Slider value updated to: 20
+10_01_25 11:00:47 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:47 am - log_info - INFO - Updated the slider value to: 21
+10_01_25 11:00:47 am - log_info - INFO - Slider value updated to: 21
+10_01_25 11:00:47 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:47 am - log_info - INFO - Updated the slider value to: 22
+10_01_25 11:00:47 am - log_info - INFO - Slider value updated to: 22
+10_01_25 11:00:47 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:47 am - log_info - INFO - Updated the slider value to: 23
+10_01_25 11:00:47 am - log_info - INFO - Slider value updated to: 15
+10_01_25 11:00:47 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:47 am - log_info - INFO - Updated the slider value to: 16
+10_01_25 11:00:47 am - log_info - INFO - Slider value updated to: 16
+10_01_25 11:00:47 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:47 am - log_info - INFO - Updated the slider value to: 17
+10_01_25 11:00:47 am - log_info - INFO - Slider value updated to: 17
+10_01_25 11:00:47 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:47 am - log_info - INFO - Updated the slider value to: 18
+10_01_25 11:00:47 am - log_info - INFO - Slider value updated to: 18
+10_01_25 11:00:47 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:47 am - log_info - INFO - Updated the slider value to: 19
+10_01_25 11:00:47 am - log_info - INFO - Slider value updated to: 19
+10_01_25 11:00:47 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:47 am - log_info - INFO - Updated the slider value to: 20
+10_01_25 11:00:47 am - log_info - INFO - Slider value updated to: 20
+10_01_25 11:00:47 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:47 am - log_info - INFO - Updated the slider value to: 21
+10_01_25 11:00:47 am - log_info - INFO - Slider value updated to: 21
+10_01_25 11:00:47 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 22
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 22
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 23
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 23
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 24
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 24
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 25
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 25
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 26
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 26
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 27
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 27
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 28
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 28
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 29
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 29
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 30
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 30
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 31
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 31
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 32
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 32
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 33
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 33
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 34
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 34
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 35
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 35
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 36
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 36
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 37
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 37
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 38
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 38
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 39
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 39
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 40
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 40
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 41
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 41
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 42
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 42
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 43
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 43
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 44
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 44
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 45
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 45
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 46
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 46
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 47
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 47
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 48
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 48
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 49
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 49
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 50
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 50
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 51
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 51
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 52
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 52
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 53
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 53
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 54
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 54
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 55
+10_01_25 11:00:48 am - log_info - INFO - Slider value updated to: 55
+10_01_25 11:00:48 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:48 am - log_info - INFO - Updated the slider value to: 56
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 56
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 57
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 57
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 58
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 58
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 59
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 59
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 60
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 60
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 61
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 61
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 62
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 62
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 63
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 63
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 64
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 64
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 65
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 65
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 66
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 66
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 67
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 67
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 68
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 68
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 69
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 69
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 70
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 70
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 71
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 71
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 72
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 72
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 73
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 73
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 74
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 74
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 75
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 75
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 76
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 76
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 77
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 77
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 78
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 78
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 79
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 79
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 80
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 80
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 81
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 81
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 82
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 82
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 83
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 83
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 84
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 84
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 85
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 85
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 86
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 86
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 87
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 87
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 88
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 88
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 89
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 89
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 90
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 90
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 91
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 91
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 92
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 92
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 93
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 93
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 94
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 94
+10_01_25 11:00:49 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:00:49 am - log_info - INFO - Updated the slider value to: 95
+10_01_25 11:00:49 am - log_info - INFO - Slider value updated to: 95
+10_01_25 11:00:49 am - log_info - INFO - Clicked on the slider value: 95
+10_01_25 11:00:49 am - log_info - INFO - Validated the slider value: 95
+10_01_25 11:00:49 am - log_info - INFO - Test to validate Input Form Submit on LambdaTest Playground
+10_01_25 11:00:49 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+10_01_25 11:00:50 am - log_info - INFO - Clicked on the Input Form Submit link
+10_01_25 11:00:50 am - log_info - INFO - Clicked on the Submit button
+10_01_25 11:00:50 am - log_info - INFO - Validated the error message 'Please fill out this field.'
+10_01_25 11:00:50 am - log_info - INFO - Filled in the Name field
+10_01_25 11:00:50 am - log_info - INFO - Filled in the Email field
+10_01_25 11:00:50 am - log_info - INFO - Filled in the Password field
+10_01_25 11:00:50 am - log_info - INFO - Filled in the Company field
+10_01_25 11:00:50 am - log_info - INFO - Filled in the Website field
+10_01_25 11:00:50 am - log_info - INFO - Selected 'United States' from the Country drop-down
+10_01_25 11:00:50 am - log_info - INFO - Filled in the City field
+10_01_25 11:00:50 am - log_info - INFO - Filled in the Address 1 field
+10_01_25 11:00:50 am - log_info - INFO - Filled in the Address 2 field
+10_01_25 11:00:50 am - log_info - INFO - Filled in the State field
+10_01_25 11:00:50 am - log_info - INFO - Filled in the Zip code field
+10_01_25 11:00:51 am - log_info - INFO - Clicked on the Submit button
+10_01_25 11:01:51 am - log_info - INFO - Test to validate interaction with Simple Form Demo on LambdaTest Playground.
+10_01_25 11:01:52 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+10_01_25 11:01:52 am - log_info - INFO - Clicked on the Simple Form Demo link
+10_01_25 11:01:52 am - log_info - INFO - Validated that the URL contains 'simple-form-demo'
+10_01_25 11:01:52 am - log_info - INFO - Entered the message: Welcome to LambdaTest
+10_01_25 11:01:52 am - log_info - INFO - Clicked on the Get Checked Value button
+10_01_25 11:01:52 am - log_info - INFO - Validated the message 'Welcome to LambdaTest' in the Your Message section
+10_01_25 11:01:52 am - log_info - INFO - Test to Drag & Drop Sliders on LambdaTest Playground
+10_01_25 11:01:52 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+10_01_25 11:01:52 am - log_info - INFO - Validated the visibility of the Drag & Drop Sliders link
+10_01_25 11:01:52 am - log_info - INFO - Clicked on the Drag & Drop Sliders link
+10_01_25 11:01:52 am - log_info - INFO - Selected the slider 'Default value 15'
+10_01_25 11:01:52 am - log_info - INFO - Current value of the slider: 15
+10_01_25 11:01:52 am - log_info - INFO - Target value of the slider: 95
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 16
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 16
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 17
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 17
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 18
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 18
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 19
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 19
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 20
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 20
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 21
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 21
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 22
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 22
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 23
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 23
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 24
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 24
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 25
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 25
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 26
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 26
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 27
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 27
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 28
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 28
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 29
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 29
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 30
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 30
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 31
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 31
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 32
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 32
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 33
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 33
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 34
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 34
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 35
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 35
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 36
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 36
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 37
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 37
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 38
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 38
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 39
+10_01_25 11:01:53 am - log_info - INFO - Slider value updated to: 39
+10_01_25 11:01:53 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:53 am - log_info - INFO - Updated the slider value to: 40
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 40
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 41
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 41
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 42
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 42
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 43
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 43
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 44
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 44
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 45
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 45
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 46
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 46
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 47
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 47
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 48
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 48
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 49
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 49
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 50
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 50
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 51
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 51
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 52
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 52
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 53
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 53
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 54
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 54
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 55
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 55
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 56
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 56
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 57
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 57
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 58
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 58
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 59
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 59
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 60
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 60
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 61
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 61
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 62
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 62
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 63
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 63
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 64
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 64
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 65
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 65
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 66
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 66
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 67
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 67
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 68
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 68
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 69
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 69
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 70
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 70
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 71
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 71
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 72
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 72
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 73
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 73
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 74
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 74
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 75
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 75
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 76
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 76
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 77
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 77
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 78
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 78
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 79
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 79
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 80
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 80
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 81
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 81
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 82
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 82
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 83
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 83
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 84
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 84
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 85
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 85
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 86
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 86
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:54 am - log_info - INFO - Updated the slider value to: 87
+10_01_25 11:01:54 am - log_info - INFO - Slider value updated to: 87
+10_01_25 11:01:54 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:55 am - log_info - INFO - Updated the slider value to: 88
+10_01_25 11:01:55 am - log_info - INFO - Slider value updated to: 88
+10_01_25 11:01:55 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:55 am - log_info - INFO - Updated the slider value to: 89
+10_01_25 11:01:55 am - log_info - INFO - Slider value updated to: 89
+10_01_25 11:01:55 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:55 am - log_info - INFO - Updated the slider value to: 90
+10_01_25 11:01:55 am - log_info - INFO - Slider value updated to: 90
+10_01_25 11:01:55 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:55 am - log_info - INFO - Updated the slider value to: 91
+10_01_25 11:01:55 am - log_info - INFO - Slider value updated to: 91
+10_01_25 11:01:55 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:55 am - log_info - INFO - Updated the slider value to: 92
+10_01_25 11:01:55 am - log_info - INFO - Slider value updated to: 92
+10_01_25 11:01:55 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:55 am - log_info - INFO - Updated the slider value to: 93
+10_01_25 11:01:55 am - log_info - INFO - Slider value updated to: 93
+10_01_25 11:01:55 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:55 am - log_info - INFO - Updated the slider value to: 94
+10_01_25 11:01:55 am - log_info - INFO - Slider value updated to: 94
+10_01_25 11:01:55 am - log_info - INFO - verify if current value of the slider is less than target value
+10_01_25 11:01:55 am - log_info - INFO - Updated the slider value to: 95
+10_01_25 11:01:55 am - log_info - INFO - Slider value updated to: 95
+10_01_25 11:01:55 am - log_info - INFO - Clicked on the slider value: 95
+10_01_25 11:01:55 am - log_info - INFO - Validated the slider value: 95
+10_01_25 11:01:55 am - log_info - INFO - Test to validate Input Form Submit on LambdaTest Playground
+10_01_25 11:01:55 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+10_01_25 11:01:55 am - log_info - INFO - Clicked on the Input Form Submit link
+10_01_25 11:01:55 am - log_info - INFO - Clicked on the Submit button
+10_01_25 11:01:55 am - log_info - INFO - Validated the error message 'Please fill out this field.'
+10_01_25 11:01:55 am - log_info - INFO - Filled in the Name field
+10_01_25 11:01:55 am - log_info - INFO - Filled in the Email field
+10_01_25 11:01:55 am - log_info - INFO - Filled in the Password field
+10_01_25 11:01:55 am - log_info - INFO - Filled in the Company field
+10_01_25 11:01:55 am - log_info - INFO - Filled in the Website field
+10_01_25 11:01:55 am - log_info - INFO - Selected 'United States' from the Country drop-down
+10_01_25 11:01:55 am - log_info - INFO - Filled in the City field
+10_01_25 11:01:55 am - log_info - INFO - Filled in the Address 1 field
+10_01_25 11:01:55 am - log_info - INFO - Filled in the Address 2 field
+10_01_25 11:01:55 am - log_info - INFO - Filled in the State field
+10_01_25 11:01:55 am - log_info - INFO - Filled in the Zip code field
+10_01_25 11:01:55 am - log_info - INFO - Clicked on the Submit button
+10_01_25 11:01:55 am - log_info - INFO - Validated the success message 'Thanks for contacting us, we will get back to you shortly.'
