@@ -43,7 +43,7 @@ def test_Input_Form_Submit(page):
     page.get_by_placeholder("Website").fill("www.test.com")
     LoggerHelper.log_info("Filled in the Website field")
     
-    #5) From the Country drop-down, select “United States” using the textproperty.
+    #5) From the Country drop-down, select “United States” using the text property.
     page.get_by_role("combobox").select_option("United States")
     LoggerHelper.log_info("Selected 'United States' from the Country drop-down")
     page.get_by_placeholder("City").fill("Jersey City")
@@ -61,7 +61,7 @@ def test_Input_Form_Submit(page):
     page.get_by_role("button", name="Submit").click()
     LoggerHelper.log_info("Clicked on the Submit button")
     
-    #7) Once submitted, validate the success message “Thanks for contactingus, we will get back to you shortly." on the screen.
+    #7) Once submitted, validate the success message “Thanks for contact, we will get back to you shortly." on the screen.
     page.wait_for_selector('text="Thanks for contacting us, we will get back to you shortly."')
     expect(page.locator('text="Thanks for contacting us, we will get back to you shortly."')).to_be_visible()
     LoggerHelper.log_info("Validated the success message 'Thanks for contacting us, we will get back to you shortly.'")  

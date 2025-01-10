@@ -33,14 +33,7 @@ def test_Drag_And_Drop_Sliders(page):
     target_value = 95
     LoggerHelper.log_info(f"Target value of the slider: {target_value}")
 
-    # Increment the slider until it reaches the target value
-    while current_value < target_value:
-        LoggerHelper.log_info(f"verify if current value of the slider is less than target value")
-        slider.fill(str(current_value + 1))
-        LoggerHelper.log_info(f"Updated the slider value to: {current_value + 1}")
-        current_value = int(slider.input_value())  # Update the current value
-        LoggerHelper.log_info(f"Slider value updated to: {current_value}")
-        print(f"Slider value updated to: {current_value}")
+    clickOnSlider(slider, current_value, target_value)
 
     # Verify the final value
     page.get_by_text(str(target_value)).click()
@@ -49,3 +42,13 @@ def test_Drag_And_Drop_Sliders(page):
     print(f"Slider reached the target value: {target_value}")
     expect(slider).to_have_value(str(target_value))
     LoggerHelper.log_info(f"Validated the slider value: {target_value}")
+    
+@staticmethod
+def clickOnSlider(slider, current_value, target_value):
+    # Increment the slider until it reaches the target value
+    while current_value < target_value:
+        slider.fill(str(current_value + 1))
+        LoggerHelper.log_info(f"Updated the slider value to: {current_value + 1}")
+        current_value = int(slider.input_value())  # Update the current value
+        LoggerHelper.log_info(f"Slider value updated to: {current_value}")
+        print(f"Slider value updated to: {current_value}")
