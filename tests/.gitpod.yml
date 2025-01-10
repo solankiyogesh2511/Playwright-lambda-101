@@ -1,4 +1,0 @@
-  
-tasks:
-  - init: sudo playwright install-deps; pip install -r requirements.txt; pip install pytest; npx playwright install; npm install
-    command: pytest && node playwright-single.js
