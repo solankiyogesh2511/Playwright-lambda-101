@@ -27,6 +27,7 @@ def test_Input_Form_Submit(page):
     LoggerHelper.log_info("Clicked on the Submit button")
     
     #3) Assert “Please fill in the fields” error message.
+    page.locator('input#name[required]').is_visible()
     expect(page.locator('input#name[required]')).to_have_js_property('validationMessage', 'Please fill out this field.')
     LoggerHelper.log_info("Validated the error message 'Please fill out this field.'")
 
