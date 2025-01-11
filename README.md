@@ -2,7 +2,7 @@
 
 Created Playwright Framework using (Python, playwright, PyTest, HTML Reports)
 Please follow below steps for framework understanding
-
+https://www.lambdatest.com/support/docs/python-with-playwright/
 
 ## Features
 - URL :  https://www.lambdatest.com/selenium-playground p
