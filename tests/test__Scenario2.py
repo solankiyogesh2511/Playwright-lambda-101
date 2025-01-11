@@ -1,8 +1,30 @@
 import pytest
-from playwright.sync_api import expect
+from playwright.sync_api import expect, sync_playwright
 from helper.logger import LoggerHelper
+import json
+import os
+import urllib
+import subprocess
+import re
 
-def test_Drag_And_Drop_Sliders(page):
+capabilities = {
+    'browserName': 'Chrome',  # Browsers allowed: `Chrome`, `MicrosoftEdge`, `pw-chromium`, `pw-firefox` and `pw-webkit`
+    'browserVersion': 'latest',
+    'LT:Options': {
+        'platform': 'Windows 10',
+        'build': 'Playwright Python Build',
+        'name': 'Playwright Test',
+        'user': os.getenv('LT_USERNAME'),
+        'accessKey': os.getenv('LT_ACCESS_KEY'),
+        'network': True,
+        'video': True,
+        'console': True,
+        'tunnel': False,  # Add tunnel configuration if testing locally hosted webpage
+        'tunnelName': '',  # Optional
+        'geoLocation': '', # country code can be fetched from https://www.lambdatest.com/capabilities-generator/
+    }
+}
+def test_Drag_And_Drop_Sliders(playwright):
     """
     Test to Drag & Drop Sliders on LambdaTest Playground.
     Steps:
@@ -15,6 +37,15 @@ def test_Drag_And_Drop_Sliders(page):
     - The current value of the slider before and after dragging.
     - The final value of the slider is 95.
     """
+    
+    playwrightVersion = str(subprocess.getoutput('playwright --version')).strip().split(" ")[1]
+    capabilities['LT:Options']['playwrightClientVersion'] = playwrightVersion
+
+    lt_cdp_url = 'wss://cdp.lambdatest.com/playwright?capabilities=' + urllib.parse.quote(
+        json.dumps(capabilities))
+    browser = playwright.chromium.connect(lt_cdp_url, timeout=120000)
+    page = browser.new_page()
+    
     
     #1) Open the https://www.lambdatest.com/selenium-playground page and click“Drag & Drop Sliders”
     LoggerHelper.log_info("Test to Drag & Drop Sliders on LambdaTest Playground")
@@ -43,6 +74,9 @@ def test_Drag_And_Drop_Sliders(page):
     expect(slider).to_have_value(str(target_value))
     LoggerHelper.log_info(f"Validated the slider value: {target_value}")
     
+    page.close()
+    browser.close()
+    
 @staticmethod
 def clickOnSlider(slider, current_value, target_value):
     # Increment the slider until it reaches the target value
@@ -52,3 +86,6 @@ def clickOnSlider(slider, current_value, target_value):
         current_value = int(slider.input_value())  # Update the current value
         LoggerHelper.log_info(f"Slider value updated to: {current_value}")
         print(f"Slider value updated to: {current_value}")
+        
+with sync_playwright() as playwright:
+            test_Drag_And_Drop_Sliders(playwright)

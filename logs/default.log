@@ -1868,3 +1868,951 @@
 10_01_25 03:56:55 pm - log_info - INFO - Filled in the Zip code field
 10_01_25 03:56:56 pm - log_info - INFO - Clicked on the Submit button
 10_01_25 03:56:56 pm - log_info - INFO - Validated the success message 'Thanks for contacting us, we will get back to you shortly.'
+11_01_25 05:23:26 am - log_info - INFO - Test to validate interaction with Simple Form Demo on LambdaTest Playground.
+11_01_25 05:23:28 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+11_01_25 05:23:28 am - log_info - INFO - Clicked on the Simple Form Demo link
+11_01_25 05:23:39 am - log_info - INFO - Test to Drag & Drop Sliders on LambdaTest Playground
+11_01_25 05:23:40 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+11_01_25 05:23:40 am - log_info - INFO - Validated the visibility of the Drag & Drop Sliders link
+11_01_25 05:23:40 am - log_info - INFO - Clicked on the Drag & Drop Sliders link
+11_01_25 05:23:40 am - log_info - INFO - Selected the slider 'Default value 15'
+11_01_25 05:23:40 am - log_info - INFO - Current value of the slider: 15
+11_01_25 05:23:40 am - log_info - INFO - Target value of the slider: 95
+11_01_25 05:23:40 am - log_info - INFO - Updated the slider value to: 16
+11_01_25 05:23:40 am - log_info - INFO - Slider value updated to: 16
+11_01_25 05:23:40 am - log_info - INFO - Updated the slider value to: 17
+11_01_25 05:23:40 am - log_info - INFO - Slider value updated to: 17
+11_01_25 05:23:40 am - log_info - INFO - Updated the slider value to: 18
+11_01_25 05:23:40 am - log_info - INFO - Slider value updated to: 18
+11_01_25 05:23:41 am - log_info - INFO - Updated the slider value to: 19
+11_01_25 05:23:41 am - log_info - INFO - Slider value updated to: 19
+11_01_25 05:23:41 am - log_info - INFO - Updated the slider value to: 20
+11_01_25 05:23:41 am - log_info - INFO - Slider value updated to: 20
+11_01_25 05:23:41 am - log_info - INFO - Updated the slider value to: 21
+11_01_25 05:23:41 am - log_info - INFO - Slider value updated to: 21
+11_01_25 05:23:41 am - log_info - INFO - Updated the slider value to: 22
+11_01_25 05:23:41 am - log_info - INFO - Slider value updated to: 22
+11_01_25 05:23:41 am - log_info - INFO - Updated the slider value to: 23
+11_01_25 05:23:41 am - log_info - INFO - Slider value updated to: 23
+11_01_25 05:23:41 am - log_info - INFO - Updated the slider value to: 24
+11_01_25 05:23:41 am - log_info - INFO - Slider value updated to: 24
+11_01_25 05:23:41 am - log_info - INFO - Updated the slider value to: 25
+11_01_25 05:23:42 am - log_info - INFO - Slider value updated to: 25
+11_01_25 05:23:42 am - log_info - INFO - Updated the slider value to: 26
+11_01_25 05:23:42 am - log_info - INFO - Slider value updated to: 26
+11_01_25 05:23:42 am - log_info - INFO - Updated the slider value to: 27
+11_01_25 05:23:42 am - log_info - INFO - Slider value updated to: 27
+11_01_25 05:23:42 am - log_info - INFO - Updated the slider value to: 28
+11_01_25 05:23:42 am - log_info - INFO - Slider value updated to: 28
+11_01_25 05:23:42 am - log_info - INFO - Updated the slider value to: 29
+11_01_25 05:23:42 am - log_info - INFO - Slider value updated to: 29
+11_01_25 05:23:42 am - log_info - INFO - Updated the slider value to: 30
+11_01_25 05:23:42 am - log_info - INFO - Slider value updated to: 30
+11_01_25 05:23:42 am - log_info - INFO - Updated the slider value to: 31
+11_01_25 05:23:42 am - log_info - INFO - Slider value updated to: 31
+11_01_25 05:23:42 am - log_info - INFO - Updated the slider value to: 32
+11_01_25 05:23:43 am - log_info - INFO - Slider value updated to: 32
+11_01_25 05:23:43 am - log_info - INFO - Updated the slider value to: 33
+11_01_25 05:23:43 am - log_info - INFO - Slider value updated to: 33
+11_01_25 05:23:43 am - log_info - INFO - Updated the slider value to: 34
+11_01_25 05:23:43 am - log_info - INFO - Slider value updated to: 34
+11_01_25 05:23:43 am - log_info - INFO - Updated the slider value to: 35
+11_01_25 05:23:43 am - log_info - INFO - Slider value updated to: 35
+11_01_25 05:23:43 am - log_info - INFO - Updated the slider value to: 36
+11_01_25 05:23:43 am - log_info - INFO - Slider value updated to: 36
+11_01_25 05:23:43 am - log_info - INFO - Updated the slider value to: 37
+11_01_25 05:23:43 am - log_info - INFO - Slider value updated to: 37
+11_01_25 05:23:43 am - log_info - INFO - Updated the slider value to: 38
+11_01_25 05:23:44 am - log_info - INFO - Slider value updated to: 38
+11_01_25 05:23:44 am - log_info - INFO - Updated the slider value to: 39
+11_01_25 05:23:44 am - log_info - INFO - Slider value updated to: 39
+11_01_25 05:23:44 am - log_info - INFO - Updated the slider value to: 40
+11_01_25 05:23:44 am - log_info - INFO - Slider value updated to: 40
+11_01_25 05:23:44 am - log_info - INFO - Updated the slider value to: 41
+11_01_25 05:23:44 am - log_info - INFO - Slider value updated to: 41
+11_01_25 05:23:44 am - log_info - INFO - Updated the slider value to: 42
+11_01_25 05:23:44 am - log_info - INFO - Slider value updated to: 42
+11_01_25 05:23:44 am - log_info - INFO - Updated the slider value to: 43
+11_01_25 05:23:44 am - log_info - INFO - Slider value updated to: 43
+11_01_25 05:23:44 am - log_info - INFO - Updated the slider value to: 44
+11_01_25 05:23:44 am - log_info - INFO - Slider value updated to: 44
+11_01_25 05:23:44 am - log_info - INFO - Updated the slider value to: 45
+11_01_25 05:23:44 am - log_info - INFO - Slider value updated to: 45
+11_01_25 05:23:45 am - log_info - INFO - Updated the slider value to: 46
+11_01_25 05:23:45 am - log_info - INFO - Slider value updated to: 46
+11_01_25 05:23:45 am - log_info - INFO - Updated the slider value to: 47
+11_01_25 05:23:45 am - log_info - INFO - Slider value updated to: 47
+11_01_25 05:23:45 am - log_info - INFO - Updated the slider value to: 48
+11_01_25 05:23:45 am - log_info - INFO - Slider value updated to: 48
+11_01_25 05:23:45 am - log_info - INFO - Updated the slider value to: 49
+11_01_25 05:23:45 am - log_info - INFO - Slider value updated to: 49
+11_01_25 05:23:45 am - log_info - INFO - Updated the slider value to: 50
+11_01_25 05:23:45 am - log_info - INFO - Slider value updated to: 50
+11_01_25 05:23:45 am - log_info - INFO - Updated the slider value to: 51
+11_01_25 05:23:45 am - log_info - INFO - Slider value updated to: 51
+11_01_25 05:23:45 am - log_info - INFO - Updated the slider value to: 52
+11_01_25 05:23:45 am - log_info - INFO - Slider value updated to: 52
+11_01_25 05:23:45 am - log_info - INFO - Updated the slider value to: 53
+11_01_25 05:23:46 am - log_info - INFO - Slider value updated to: 53
+11_01_25 05:23:46 am - log_info - INFO - Updated the slider value to: 54
+11_01_25 05:23:46 am - log_info - INFO - Slider value updated to: 54
+11_01_25 05:23:46 am - log_info - INFO - Updated the slider value to: 55
+11_01_25 05:23:46 am - log_info - INFO - Slider value updated to: 55
+11_01_25 05:23:46 am - log_info - INFO - Updated the slider value to: 56
+11_01_25 05:23:46 am - log_info - INFO - Slider value updated to: 56
+11_01_25 05:23:46 am - log_info - INFO - Updated the slider value to: 57
+11_01_25 05:23:46 am - log_info - INFO - Slider value updated to: 57
+11_01_25 05:23:46 am - log_info - INFO - Updated the slider value to: 58
+11_01_25 05:23:46 am - log_info - INFO - Slider value updated to: 58
+11_01_25 05:23:46 am - log_info - INFO - Updated the slider value to: 59
+11_01_25 05:23:46 am - log_info - INFO - Slider value updated to: 59
+11_01_25 05:23:46 am - log_info - INFO - Updated the slider value to: 60
+11_01_25 05:23:46 am - log_info - INFO - Slider value updated to: 60
+11_01_25 05:23:47 am - log_info - INFO - Updated the slider value to: 61
+11_01_25 05:23:47 am - log_info - INFO - Slider value updated to: 61
+11_01_25 05:23:47 am - log_info - INFO - Updated the slider value to: 62
+11_01_25 05:23:47 am - log_info - INFO - Slider value updated to: 62
+11_01_25 05:23:47 am - log_info - INFO - Updated the slider value to: 63
+11_01_25 05:23:47 am - log_info - INFO - Slider value updated to: 63
+11_01_25 05:23:47 am - log_info - INFO - Updated the slider value to: 64
+11_01_25 05:23:47 am - log_info - INFO - Slider value updated to: 64
+11_01_25 05:23:47 am - log_info - INFO - Updated the slider value to: 65
+11_01_25 05:23:47 am - log_info - INFO - Slider value updated to: 65
+11_01_25 05:23:47 am - log_info - INFO - Updated the slider value to: 66
+11_01_25 05:23:47 am - log_info - INFO - Slider value updated to: 66
+11_01_25 05:23:47 am - log_info - INFO - Updated the slider value to: 67
+11_01_25 05:23:47 am - log_info - INFO - Slider value updated to: 67
+11_01_25 05:23:48 am - log_info - INFO - Updated the slider value to: 68
+11_01_25 05:23:48 am - log_info - INFO - Slider value updated to: 68
+11_01_25 05:23:48 am - log_info - INFO - Updated the slider value to: 69
+11_01_25 05:23:48 am - log_info - INFO - Slider value updated to: 69
+11_01_25 05:23:48 am - log_info - INFO - Updated the slider value to: 70
+11_01_25 05:23:48 am - log_info - INFO - Slider value updated to: 70
+11_01_25 05:23:48 am - log_info - INFO - Updated the slider value to: 71
+11_01_25 05:23:48 am - log_info - INFO - Slider value updated to: 71
+11_01_25 05:23:48 am - log_info - INFO - Updated the slider value to: 72
+11_01_25 05:23:48 am - log_info - INFO - Slider value updated to: 72
+11_01_25 05:23:48 am - log_info - INFO - Updated the slider value to: 73
+11_01_25 05:23:48 am - log_info - INFO - Slider value updated to: 73
+11_01_25 05:23:48 am - log_info - INFO - Updated the slider value to: 74
+11_01_25 05:23:48 am - log_info - INFO - Slider value updated to: 74
+11_01_25 05:23:49 am - log_info - INFO - Updated the slider value to: 75
+11_01_25 05:23:49 am - log_info - INFO - Slider value updated to: 75
+11_01_25 05:23:49 am - log_info - INFO - Updated the slider value to: 76
+11_01_25 05:23:49 am - log_info - INFO - Slider value updated to: 76
+11_01_25 05:23:49 am - log_info - INFO - Updated the slider value to: 77
+11_01_25 05:23:49 am - log_info - INFO - Slider value updated to: 77
+11_01_25 05:23:49 am - log_info - INFO - Updated the slider value to: 78
+11_01_25 05:23:49 am - log_info - INFO - Slider value updated to: 78
+11_01_25 05:23:49 am - log_info - INFO - Updated the slider value to: 79
+11_01_25 05:23:49 am - log_info - INFO - Slider value updated to: 79
+11_01_25 05:23:49 am - log_info - INFO - Updated the slider value to: 80
+11_01_25 05:23:49 am - log_info - INFO - Slider value updated to: 80
+11_01_25 05:23:49 am - log_info - INFO - Updated the slider value to: 81
+11_01_25 05:23:49 am - log_info - INFO - Slider value updated to: 81
+11_01_25 05:23:50 am - log_info - INFO - Updated the slider value to: 82
+11_01_25 05:23:50 am - log_info - INFO - Slider value updated to: 82
+11_01_25 05:23:50 am - log_info - INFO - Updated the slider value to: 83
+11_01_25 05:23:50 am - log_info - INFO - Slider value updated to: 83
+11_01_25 05:23:50 am - log_info - INFO - Updated the slider value to: 84
+11_01_25 05:23:50 am - log_info - INFO - Slider value updated to: 84
+11_01_25 05:23:50 am - log_info - INFO - Updated the slider value to: 85
+11_01_25 05:23:50 am - log_info - INFO - Slider value updated to: 85
+11_01_25 05:23:50 am - log_info - INFO - Updated the slider value to: 86
+11_01_25 05:23:50 am - log_info - INFO - Slider value updated to: 86
+11_01_25 05:23:50 am - log_info - INFO - Updated the slider value to: 87
+11_01_25 05:23:50 am - log_info - INFO - Slider value updated to: 87
+11_01_25 05:23:50 am - log_info - INFO - Updated the slider value to: 88
+11_01_25 05:23:50 am - log_info - INFO - Slider value updated to: 88
+11_01_25 05:23:51 am - log_info - INFO - Updated the slider value to: 89
+11_01_25 05:23:51 am - log_info - INFO - Slider value updated to: 89
+11_01_25 05:23:51 am - log_info - INFO - Updated the slider value to: 90
+11_01_25 05:23:51 am - log_info - INFO - Slider value updated to: 90
+11_01_25 05:23:51 am - log_info - INFO - Updated the slider value to: 91
+11_01_25 05:23:51 am - log_info - INFO - Slider value updated to: 91
+11_01_25 05:23:51 am - log_info - INFO - Updated the slider value to: 92
+11_01_25 05:23:51 am - log_info - INFO - Slider value updated to: 92
+11_01_25 05:23:51 am - log_info - INFO - Updated the slider value to: 93
+11_01_25 05:23:51 am - log_info - INFO - Slider value updated to: 93
+11_01_25 05:23:51 am - log_info - INFO - Updated the slider value to: 94
+11_01_25 05:23:51 am - log_info - INFO - Slider value updated to: 94
+11_01_25 05:23:51 am - log_info - INFO - Updated the slider value to: 95
+11_01_25 05:23:51 am - log_info - INFO - Slider value updated to: 95
+11_01_25 05:23:51 am - log_info - INFO - Clicked on the slider value: 95
+11_01_25 05:23:52 am - log_info - INFO - Validated the slider value: 95
+11_01_25 05:24:03 am - log_info - INFO - Test to validate Input Form Submit on LambdaTest Playground
+11_01_25 05:24:04 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+11_01_25 05:24:04 am - log_info - INFO - Clicked on the Input Form Submit link
+11_01_25 05:24:04 am - log_info - INFO - Clicked on the Submit button
+11_01_25 05:24:04 am - log_info - INFO - Validated the error message 'Please fill out this field.'
+11_01_25 05:24:04 am - log_info - INFO - Filled in the Name field
+11_01_25 05:24:05 am - log_info - INFO - Filled in the Email field
+11_01_25 05:24:05 am - log_info - INFO - Filled in the Password field
+11_01_25 05:24:05 am - log_info - INFO - Filled in the Company field
+11_01_25 05:24:05 am - log_info - INFO - Filled in the Website field
+11_01_25 05:24:05 am - log_info - INFO - Selected 'United States' from the Country drop-down
+11_01_25 05:24:05 am - log_info - INFO - Filled in the City field
+11_01_25 05:24:05 am - log_info - INFO - Filled in the Address 1 field
+11_01_25 05:24:05 am - log_info - INFO - Filled in the Address 2 field
+11_01_25 05:24:05 am - log_info - INFO - Filled in the State field
+11_01_25 05:24:05 am - log_info - INFO - Filled in the Zip code field
+11_01_25 05:24:06 am - log_info - INFO - Clicked on the Submit button
+11_01_25 05:24:06 am - log_info - INFO - Validated the success message 'Thanks for contacting us, we will get back to you shortly.'
+11_01_25 05:27:03 am - log_info - INFO - Test to validate interaction with Simple Form Demo on LambdaTest Playground.
+11_01_25 05:27:04 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+11_01_25 05:27:04 am - log_info - INFO - Clicked on the Simple Form Demo link
+11_01_25 05:27:04 am - log_info - INFO - Validated that the URL contains 'simple-form-demo'
+11_01_25 05:27:04 am - log_info - INFO - Entered the message: Welcome to LambdaTest
+11_01_25 05:27:04 am - log_info - INFO - Clicked on the Get Checked Value button
+11_01_25 05:27:04 am - log_info - INFO - Validated the message 'Welcome to LambdaTest' in the Your Message section
+11_01_25 05:27:16 am - log_info - INFO - Test to Drag & Drop Sliders on LambdaTest Playground
+11_01_25 05:27:17 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+11_01_25 05:27:17 am - log_info - INFO - Validated the visibility of the Drag & Drop Sliders link
+11_01_25 05:27:17 am - log_info - INFO - Clicked on the Drag & Drop Sliders link
+11_01_25 05:27:17 am - log_info - INFO - Selected the slider 'Default value 15'
+11_01_25 05:27:17 am - log_info - INFO - Current value of the slider: 15
+11_01_25 05:27:17 am - log_info - INFO - Target value of the slider: 95
+11_01_25 05:27:18 am - log_info - INFO - Updated the slider value to: 16
+11_01_25 05:27:18 am - log_info - INFO - Slider value updated to: 16
+11_01_25 05:27:18 am - log_info - INFO - Updated the slider value to: 17
+11_01_25 05:27:18 am - log_info - INFO - Slider value updated to: 17
+11_01_25 05:27:18 am - log_info - INFO - Updated the slider value to: 18
+11_01_25 05:27:18 am - log_info - INFO - Slider value updated to: 18
+11_01_25 05:27:18 am - log_info - INFO - Updated the slider value to: 19
+11_01_25 05:27:19 am - log_info - INFO - Slider value updated to: 19
+11_01_25 05:27:19 am - log_info - INFO - Updated the slider value to: 20
+11_01_25 05:27:19 am - log_info - INFO - Slider value updated to: 20
+11_01_25 05:27:19 am - log_info - INFO - Updated the slider value to: 21
+11_01_25 05:27:19 am - log_info - INFO - Slider value updated to: 21
+11_01_25 05:27:19 am - log_info - INFO - Updated the slider value to: 22
+11_01_25 05:27:19 am - log_info - INFO - Slider value updated to: 22
+11_01_25 05:27:19 am - log_info - INFO - Updated the slider value to: 23
+11_01_25 05:27:19 am - log_info - INFO - Slider value updated to: 23
+11_01_25 05:27:20 am - log_info - INFO - Updated the slider value to: 24
+11_01_25 05:27:20 am - log_info - INFO - Slider value updated to: 24
+11_01_25 05:27:20 am - log_info - INFO - Updated the slider value to: 25
+11_01_25 05:27:20 am - log_info - INFO - Slider value updated to: 25
+11_01_25 05:27:20 am - log_info - INFO - Updated the slider value to: 26
+11_01_25 05:27:20 am - log_info - INFO - Slider value updated to: 26
+11_01_25 05:27:20 am - log_info - INFO - Updated the slider value to: 27
+11_01_25 05:27:20 am - log_info - INFO - Slider value updated to: 27
+11_01_25 05:27:20 am - log_info - INFO - Updated the slider value to: 28
+11_01_25 05:27:21 am - log_info - INFO - Slider value updated to: 28
+11_01_25 05:27:21 am - log_info - INFO - Updated the slider value to: 29
+11_01_25 05:27:21 am - log_info - INFO - Slider value updated to: 29
+11_01_25 05:27:21 am - log_info - INFO - Updated the slider value to: 30
+11_01_25 05:27:21 am - log_info - INFO - Slider value updated to: 30
+11_01_25 05:27:21 am - log_info - INFO - Updated the slider value to: 31
+11_01_25 05:27:21 am - log_info - INFO - Slider value updated to: 31
+11_01_25 05:27:21 am - log_info - INFO - Updated the slider value to: 32
+11_01_25 05:27:22 am - log_info - INFO - Slider value updated to: 32
+11_01_25 05:27:22 am - log_info - INFO - Updated the slider value to: 33
+11_01_25 05:27:22 am - log_info - INFO - Slider value updated to: 33
+11_01_25 05:27:22 am - log_info - INFO - Updated the slider value to: 34
+11_01_25 05:27:22 am - log_info - INFO - Slider value updated to: 34
+11_01_25 05:27:22 am - log_info - INFO - Updated the slider value to: 35
+11_01_25 05:27:22 am - log_info - INFO - Slider value updated to: 35
+11_01_25 05:27:22 am - log_info - INFO - Updated the slider value to: 36
+11_01_25 05:27:22 am - log_info - INFO - Slider value updated to: 36
+11_01_25 05:27:22 am - log_info - INFO - Updated the slider value to: 37
+11_01_25 05:27:23 am - log_info - INFO - Slider value updated to: 37
+11_01_25 05:27:23 am - log_info - INFO - Updated the slider value to: 38
+11_01_25 05:27:23 am - log_info - INFO - Slider value updated to: 38
+11_01_25 05:27:23 am - log_info - INFO - Updated the slider value to: 39
+11_01_25 05:27:23 am - log_info - INFO - Slider value updated to: 39
+11_01_25 05:27:23 am - log_info - INFO - Updated the slider value to: 40
+11_01_25 05:27:23 am - log_info - INFO - Slider value updated to: 40
+11_01_25 05:27:23 am - log_info - INFO - Updated the slider value to: 41
+11_01_25 05:27:23 am - log_info - INFO - Slider value updated to: 41
+11_01_25 05:27:24 am - log_info - INFO - Updated the slider value to: 42
+11_01_25 05:27:24 am - log_info - INFO - Slider value updated to: 42
+11_01_25 05:27:24 am - log_info - INFO - Updated the slider value to: 43
+11_01_25 05:27:24 am - log_info - INFO - Slider value updated to: 43
+11_01_25 05:27:24 am - log_info - INFO - Updated the slider value to: 44
+11_01_25 05:27:24 am - log_info - INFO - Slider value updated to: 44
+11_01_25 05:27:24 am - log_info - INFO - Updated the slider value to: 45
+11_01_25 05:27:24 am - log_info - INFO - Slider value updated to: 45
+11_01_25 05:27:24 am - log_info - INFO - Updated the slider value to: 46
+11_01_25 05:27:25 am - log_info - INFO - Slider value updated to: 46
+11_01_25 05:27:25 am - log_info - INFO - Updated the slider value to: 47
+11_01_25 05:27:25 am - log_info - INFO - Slider value updated to: 47
+11_01_25 05:27:25 am - log_info - INFO - Updated the slider value to: 48
+11_01_25 05:27:25 am - log_info - INFO - Slider value updated to: 48
+11_01_25 05:27:25 am - log_info - INFO - Updated the slider value to: 49
+11_01_25 05:27:25 am - log_info - INFO - Slider value updated to: 49
+11_01_25 05:27:25 am - log_info - INFO - Updated the slider value to: 50
+11_01_25 05:27:25 am - log_info - INFO - Slider value updated to: 50
+11_01_25 05:27:25 am - log_info - INFO - Updated the slider value to: 51
+11_01_25 05:27:26 am - log_info - INFO - Slider value updated to: 51
+11_01_25 05:27:26 am - log_info - INFO - Updated the slider value to: 52
+11_01_25 05:27:26 am - log_info - INFO - Slider value updated to: 52
+11_01_25 05:27:26 am - log_info - INFO - Updated the slider value to: 53
+11_01_25 05:27:26 am - log_info - INFO - Slider value updated to: 53
+11_01_25 05:27:26 am - log_info - INFO - Updated the slider value to: 54
+11_01_25 05:27:26 am - log_info - INFO - Slider value updated to: 54
+11_01_25 05:27:26 am - log_info - INFO - Updated the slider value to: 55
+11_01_25 05:27:26 am - log_info - INFO - Slider value updated to: 55
+11_01_25 05:27:26 am - log_info - INFO - Updated the slider value to: 56
+11_01_25 05:27:27 am - log_info - INFO - Slider value updated to: 56
+11_01_25 05:27:27 am - log_info - INFO - Updated the slider value to: 57
+11_01_25 05:27:27 am - log_info - INFO - Slider value updated to: 57
+11_01_25 05:27:27 am - log_info - INFO - Updated the slider value to: 58
+11_01_25 05:27:27 am - log_info - INFO - Slider value updated to: 58
+11_01_25 05:27:27 am - log_info - INFO - Updated the slider value to: 59
+11_01_25 05:27:27 am - log_info - INFO - Slider value updated to: 59
+11_01_25 05:27:27 am - log_info - INFO - Updated the slider value to: 60
+11_01_25 05:27:27 am - log_info - INFO - Slider value updated to: 60
+11_01_25 05:27:27 am - log_info - INFO - Updated the slider value to: 61
+11_01_25 05:27:28 am - log_info - INFO - Slider value updated to: 61
+11_01_25 05:27:28 am - log_info - INFO - Updated the slider value to: 62
+11_01_25 05:27:28 am - log_info - INFO - Slider value updated to: 62
+11_01_25 05:27:28 am - log_info - INFO - Updated the slider value to: 63
+11_01_25 05:27:28 am - log_info - INFO - Slider value updated to: 63
+11_01_25 05:27:28 am - log_info - INFO - Updated the slider value to: 64
+11_01_25 05:27:28 am - log_info - INFO - Slider value updated to: 64
+11_01_25 05:27:28 am - log_info - INFO - Updated the slider value to: 65
+11_01_25 05:27:28 am - log_info - INFO - Slider value updated to: 65
+11_01_25 05:27:29 am - log_info - INFO - Updated the slider value to: 66
+11_01_25 05:27:29 am - log_info - INFO - Slider value updated to: 66
+11_01_25 05:27:29 am - log_info - INFO - Updated the slider value to: 67
+11_01_25 05:27:29 am - log_info - INFO - Slider value updated to: 67
+11_01_25 05:27:29 am - log_info - INFO - Updated the slider value to: 68
+11_01_25 05:27:29 am - log_info - INFO - Slider value updated to: 68
+11_01_25 05:27:29 am - log_info - INFO - Updated the slider value to: 69
+11_01_25 05:27:29 am - log_info - INFO - Slider value updated to: 69
+11_01_25 05:27:29 am - log_info - INFO - Updated the slider value to: 70
+11_01_25 05:27:29 am - log_info - INFO - Slider value updated to: 70
+11_01_25 05:27:30 am - log_info - INFO - Updated the slider value to: 71
+11_01_25 05:27:30 am - log_info - INFO - Slider value updated to: 71
+11_01_25 05:27:30 am - log_info - INFO - Updated the slider value to: 72
+11_01_25 05:27:30 am - log_info - INFO - Slider value updated to: 72
+11_01_25 05:27:30 am - log_info - INFO - Updated the slider value to: 73
+11_01_25 05:27:30 am - log_info - INFO - Slider value updated to: 73
+11_01_25 05:27:30 am - log_info - INFO - Updated the slider value to: 74
+11_01_25 05:27:30 am - log_info - INFO - Slider value updated to: 74
+11_01_25 05:27:30 am - log_info - INFO - Updated the slider value to: 75
+11_01_25 05:27:31 am - log_info - INFO - Slider value updated to: 75
+11_01_25 05:27:31 am - log_info - INFO - Updated the slider value to: 76
+11_01_25 05:27:31 am - log_info - INFO - Slider value updated to: 76
+11_01_25 05:27:31 am - log_info - INFO - Updated the slider value to: 77
+11_01_25 05:27:31 am - log_info - INFO - Slider value updated to: 77
+11_01_25 05:27:31 am - log_info - INFO - Updated the slider value to: 78
+11_01_25 05:27:31 am - log_info - INFO - Slider value updated to: 78
+11_01_25 05:27:31 am - log_info - INFO - Updated the slider value to: 79
+11_01_25 05:27:31 am - log_info - INFO - Slider value updated to: 79
+11_01_25 05:27:31 am - log_info - INFO - Updated the slider value to: 80
+11_01_25 05:27:32 am - log_info - INFO - Slider value updated to: 80
+11_01_25 05:27:32 am - log_info - INFO - Updated the slider value to: 81
+11_01_25 05:27:32 am - log_info - INFO - Slider value updated to: 81
+11_01_25 05:27:32 am - log_info - INFO - Updated the slider value to: 82
+11_01_25 05:27:32 am - log_info - INFO - Slider value updated to: 82
+11_01_25 05:27:32 am - log_info - INFO - Updated the slider value to: 83
+11_01_25 05:27:32 am - log_info - INFO - Slider value updated to: 83
+11_01_25 05:27:32 am - log_info - INFO - Updated the slider value to: 84
+11_01_25 05:27:32 am - log_info - INFO - Slider value updated to: 84
+11_01_25 05:27:32 am - log_info - INFO - Updated the slider value to: 85
+11_01_25 05:27:33 am - log_info - INFO - Slider value updated to: 85
+11_01_25 05:27:33 am - log_info - INFO - Updated the slider value to: 86
+11_01_25 05:27:33 am - log_info - INFO - Slider value updated to: 86
+11_01_25 05:27:33 am - log_info - INFO - Updated the slider value to: 87
+11_01_25 05:27:33 am - log_info - INFO - Slider value updated to: 87
+11_01_25 05:27:33 am - log_info - INFO - Updated the slider value to: 88
+11_01_25 05:27:33 am - log_info - INFO - Slider value updated to: 88
+11_01_25 05:27:33 am - log_info - INFO - Updated the slider value to: 89
+11_01_25 05:27:33 am - log_info - INFO - Slider value updated to: 89
+11_01_25 05:27:33 am - log_info - INFO - Updated the slider value to: 90
+11_01_25 05:27:34 am - log_info - INFO - Slider value updated to: 90
+11_01_25 05:27:34 am - log_info - INFO - Updated the slider value to: 91
+11_01_25 05:27:34 am - log_info - INFO - Slider value updated to: 91
+11_01_25 05:27:34 am - log_info - INFO - Updated the slider value to: 92
+11_01_25 05:27:34 am - log_info - INFO - Slider value updated to: 92
+11_01_25 05:27:34 am - log_info - INFO - Updated the slider value to: 93
+11_01_25 05:27:34 am - log_info - INFO - Slider value updated to: 93
+11_01_25 05:27:34 am - log_info - INFO - Updated the slider value to: 94
+11_01_25 05:27:34 am - log_info - INFO - Slider value updated to: 94
+11_01_25 05:27:35 am - log_info - INFO - Updated the slider value to: 95
+11_01_25 05:27:35 am - log_info - INFO - Slider value updated to: 95
+11_01_25 05:27:35 am - log_info - INFO - Clicked on the slider value: 95
+11_01_25 05:27:35 am - log_info - INFO - Validated the slider value: 95
+11_01_25 05:27:44 am - log_info - INFO - Test to validate Input Form Submit on LambdaTest Playground
+11_01_25 05:27:44 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+11_01_25 05:27:44 am - log_info - INFO - Clicked on the Input Form Submit link
+11_01_25 05:27:45 am - log_info - INFO - Clicked on the Submit button
+11_01_25 05:27:45 am - log_info - INFO - Validated the error message 'Please fill out this field.'
+11_01_25 05:27:45 am - log_info - INFO - Filled in the Name field
+11_01_25 05:27:45 am - log_info - INFO - Filled in the Email field
+11_01_25 05:27:45 am - log_info - INFO - Filled in the Password field
+11_01_25 05:27:45 am - log_info - INFO - Filled in the Company field
+11_01_25 05:27:45 am - log_info - INFO - Filled in the Website field
+11_01_25 05:27:46 am - log_info - INFO - Selected 'United States' from the Country drop-down
+11_01_25 05:27:46 am - log_info - INFO - Filled in the City field
+11_01_25 05:27:46 am - log_info - INFO - Filled in the Address 1 field
+11_01_25 05:27:46 am - log_info - INFO - Filled in the Address 2 field
+11_01_25 05:27:46 am - log_info - INFO - Filled in the State field
+11_01_25 05:27:46 am - log_info - INFO - Filled in the Zip code field
+11_01_25 05:27:46 am - log_info - INFO - Clicked on the Submit button
+11_01_25 05:27:46 am - log_info - INFO - Validated the success message 'Thanks for contacting us, we will get back to you shortly.'
+11_01_25 05:27:55 am - log_info - INFO - Test to validate interaction with Simple Form Demo on LambdaTest Playground.
+11_01_25 05:27:56 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+11_01_25 05:27:56 am - log_info - INFO - Clicked on the Simple Form Demo link
+11_01_25 05:27:56 am - log_info - INFO - Validated that the URL contains 'simple-form-demo'
+11_01_25 05:27:56 am - log_info - INFO - Entered the message: Welcome to LambdaTest
+11_01_25 05:27:56 am - log_info - INFO - Clicked on the Get Checked Value button
+11_01_25 05:27:56 am - log_info - INFO - Validated the message 'Welcome to LambdaTest' in the Your Message section
+11_01_25 05:28:05 am - log_info - INFO - Test to Drag & Drop Sliders on LambdaTest Playground
+11_01_25 05:28:05 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+11_01_25 05:28:05 am - log_info - INFO - Validated the visibility of the Drag & Drop Sliders link
+11_01_25 05:28:05 am - log_info - INFO - Clicked on the Drag & Drop Sliders link
+11_01_25 05:28:05 am - log_info - INFO - Selected the slider 'Default value 15'
+11_01_25 05:28:05 am - log_info - INFO - Current value of the slider: 15
+11_01_25 05:28:05 am - log_info - INFO - Target value of the slider: 95
+11_01_25 05:28:06 am - log_info - INFO - Updated the slider value to: 16
+11_01_25 05:28:06 am - log_info - INFO - Slider value updated to: 16
+11_01_25 05:28:06 am - log_info - INFO - Updated the slider value to: 17
+11_01_25 05:28:06 am - log_info - INFO - Slider value updated to: 17
+11_01_25 05:28:06 am - log_info - INFO - Updated the slider value to: 18
+11_01_25 05:28:06 am - log_info - INFO - Slider value updated to: 18
+11_01_25 05:28:06 am - log_info - INFO - Updated the slider value to: 19
+11_01_25 05:28:06 am - log_info - INFO - Slider value updated to: 19
+11_01_25 05:28:06 am - log_info - INFO - Updated the slider value to: 20
+11_01_25 05:28:06 am - log_info - INFO - Slider value updated to: 20
+11_01_25 05:28:06 am - log_info - INFO - Updated the slider value to: 21
+11_01_25 05:28:06 am - log_info - INFO - Slider value updated to: 21
+11_01_25 05:28:07 am - log_info - INFO - Updated the slider value to: 22
+11_01_25 05:28:07 am - log_info - INFO - Slider value updated to: 22
+11_01_25 05:28:07 am - log_info - INFO - Updated the slider value to: 23
+11_01_25 05:28:07 am - log_info - INFO - Slider value updated to: 23
+11_01_25 05:28:07 am - log_info - INFO - Updated the slider value to: 24
+11_01_25 05:28:07 am - log_info - INFO - Slider value updated to: 24
+11_01_25 05:28:07 am - log_info - INFO - Updated the slider value to: 25
+11_01_25 05:28:07 am - log_info - INFO - Slider value updated to: 25
+11_01_25 05:28:07 am - log_info - INFO - Updated the slider value to: 26
+11_01_25 05:28:07 am - log_info - INFO - Slider value updated to: 26
+11_01_25 05:28:07 am - log_info - INFO - Updated the slider value to: 27
+11_01_25 05:28:07 am - log_info - INFO - Slider value updated to: 27
+11_01_25 05:28:07 am - log_info - INFO - Updated the slider value to: 28
+11_01_25 05:28:07 am - log_info - INFO - Slider value updated to: 28
+11_01_25 05:28:07 am - log_info - INFO - Updated the slider value to: 29
+11_01_25 05:28:07 am - log_info - INFO - Slider value updated to: 29
+11_01_25 05:28:07 am - log_info - INFO - Updated the slider value to: 30
+11_01_25 05:28:08 am - log_info - INFO - Slider value updated to: 30
+11_01_25 05:28:08 am - log_info - INFO - Updated the slider value to: 31
+11_01_25 05:28:08 am - log_info - INFO - Slider value updated to: 31
+11_01_25 05:28:08 am - log_info - INFO - Updated the slider value to: 32
+11_01_25 05:28:08 am - log_info - INFO - Slider value updated to: 32
+11_01_25 05:28:08 am - log_info - INFO - Updated the slider value to: 33
+11_01_25 05:28:08 am - log_info - INFO - Slider value updated to: 33
+11_01_25 05:28:08 am - log_info - INFO - Updated the slider value to: 34
+11_01_25 05:28:08 am - log_info - INFO - Slider value updated to: 34
+11_01_25 05:28:08 am - log_info - INFO - Updated the slider value to: 35
+11_01_25 05:28:08 am - log_info - INFO - Slider value updated to: 35
+11_01_25 05:28:08 am - log_info - INFO - Updated the slider value to: 36
+11_01_25 05:28:08 am - log_info - INFO - Slider value updated to: 36
+11_01_25 05:28:08 am - log_info - INFO - Updated the slider value to: 37
+11_01_25 05:28:08 am - log_info - INFO - Slider value updated to: 37
+11_01_25 05:28:08 am - log_info - INFO - Updated the slider value to: 38
+11_01_25 05:28:09 am - log_info - INFO - Slider value updated to: 38
+11_01_25 05:28:09 am - log_info - INFO - Updated the slider value to: 39
+11_01_25 05:28:09 am - log_info - INFO - Slider value updated to: 39
+11_01_25 05:28:09 am - log_info - INFO - Updated the slider value to: 40
+11_01_25 05:28:09 am - log_info - INFO - Slider value updated to: 40
+11_01_25 05:28:09 am - log_info - INFO - Updated the slider value to: 41
+11_01_25 05:28:09 am - log_info - INFO - Slider value updated to: 41
+11_01_25 05:28:09 am - log_info - INFO - Updated the slider value to: 42
+11_01_25 05:28:09 am - log_info - INFO - Slider value updated to: 42
+11_01_25 05:28:09 am - log_info - INFO - Updated the slider value to: 43
+11_01_25 05:28:09 am - log_info - INFO - Slider value updated to: 43
+11_01_25 05:28:09 am - log_info - INFO - Updated the slider value to: 44
+11_01_25 05:28:09 am - log_info - INFO - Slider value updated to: 44
+11_01_25 05:28:10 am - log_info - INFO - Updated the slider value to: 45
+11_01_25 05:28:10 am - log_info - INFO - Slider value updated to: 45
+11_01_25 05:28:10 am - log_info - INFO - Updated the slider value to: 46
+11_01_25 05:28:10 am - log_info - INFO - Slider value updated to: 46
+11_01_25 05:28:10 am - log_info - INFO - Updated the slider value to: 47
+11_01_25 05:28:10 am - log_info - INFO - Slider value updated to: 47
+11_01_25 05:28:10 am - log_info - INFO - Updated the slider value to: 48
+11_01_25 05:28:10 am - log_info - INFO - Slider value updated to: 48
+11_01_25 05:28:10 am - log_info - INFO - Updated the slider value to: 49
+11_01_25 05:28:10 am - log_info - INFO - Slider value updated to: 49
+11_01_25 05:28:10 am - log_info - INFO - Updated the slider value to: 50
+11_01_25 05:28:10 am - log_info - INFO - Slider value updated to: 50
+11_01_25 05:28:10 am - log_info - INFO - Updated the slider value to: 51
+11_01_25 05:28:10 am - log_info - INFO - Slider value updated to: 51
+11_01_25 05:28:10 am - log_info - INFO - Updated the slider value to: 52
+11_01_25 05:28:10 am - log_info - INFO - Slider value updated to: 52
+11_01_25 05:28:10 am - log_info - INFO - Updated the slider value to: 53
+11_01_25 05:28:11 am - log_info - INFO - Slider value updated to: 53
+11_01_25 05:28:11 am - log_info - INFO - Updated the slider value to: 54
+11_01_25 05:28:11 am - log_info - INFO - Slider value updated to: 54
+11_01_25 05:28:11 am - log_info - INFO - Updated the slider value to: 55
+11_01_25 05:28:11 am - log_info - INFO - Slider value updated to: 55
+11_01_25 05:28:11 am - log_info - INFO - Updated the slider value to: 56
+11_01_25 05:28:11 am - log_info - INFO - Slider value updated to: 56
+11_01_25 05:28:11 am - log_info - INFO - Updated the slider value to: 57
+11_01_25 05:28:11 am - log_info - INFO - Slider value updated to: 57
+11_01_25 05:28:11 am - log_info - INFO - Updated the slider value to: 58
+11_01_25 05:28:11 am - log_info - INFO - Slider value updated to: 58
+11_01_25 05:28:11 am - log_info - INFO - Updated the slider value to: 59
+11_01_25 05:28:11 am - log_info - INFO - Slider value updated to: 59
+11_01_25 05:28:11 am - log_info - INFO - Updated the slider value to: 60
+11_01_25 05:28:11 am - log_info - INFO - Slider value updated to: 60
+11_01_25 05:28:11 am - log_info - INFO - Updated the slider value to: 61
+11_01_25 05:28:11 am - log_info - INFO - Slider value updated to: 61
+11_01_25 05:28:12 am - log_info - INFO - Updated the slider value to: 62
+11_01_25 05:28:12 am - log_info - INFO - Slider value updated to: 62
+11_01_25 05:28:12 am - log_info - INFO - Updated the slider value to: 63
+11_01_25 05:28:12 am - log_info - INFO - Slider value updated to: 63
+11_01_25 05:28:12 am - log_info - INFO - Updated the slider value to: 64
+11_01_25 05:28:12 am - log_info - INFO - Slider value updated to: 64
+11_01_25 05:28:12 am - log_info - INFO - Updated the slider value to: 65
+11_01_25 05:28:12 am - log_info - INFO - Slider value updated to: 65
+11_01_25 05:28:12 am - log_info - INFO - Updated the slider value to: 66
+11_01_25 05:28:12 am - log_info - INFO - Slider value updated to: 66
+11_01_25 05:28:12 am - log_info - INFO - Updated the slider value to: 67
+11_01_25 05:28:12 am - log_info - INFO - Slider value updated to: 67
+11_01_25 05:28:12 am - log_info - INFO - Updated the slider value to: 68
+11_01_25 05:28:12 am - log_info - INFO - Slider value updated to: 68
+11_01_25 05:28:12 am - log_info - INFO - Updated the slider value to: 69
+11_01_25 05:28:12 am - log_info - INFO - Slider value updated to: 69
+11_01_25 05:28:12 am - log_info - INFO - Updated the slider value to: 70
+11_01_25 05:28:13 am - log_info - INFO - Slider value updated to: 70
+11_01_25 05:28:13 am - log_info - INFO - Updated the slider value to: 71
+11_01_25 05:28:13 am - log_info - INFO - Slider value updated to: 71
+11_01_25 05:28:13 am - log_info - INFO - Updated the slider value to: 72
+11_01_25 05:28:13 am - log_info - INFO - Slider value updated to: 72
+11_01_25 05:28:13 am - log_info - INFO - Updated the slider value to: 73
+11_01_25 05:28:13 am - log_info - INFO - Slider value updated to: 73
+11_01_25 05:28:13 am - log_info - INFO - Updated the slider value to: 74
+11_01_25 05:28:13 am - log_info - INFO - Slider value updated to: 74
+11_01_25 05:28:13 am - log_info - INFO - Updated the slider value to: 75
+11_01_25 05:28:13 am - log_info - INFO - Slider value updated to: 75
+11_01_25 05:28:13 am - log_info - INFO - Updated the slider value to: 76
+11_01_25 05:28:13 am - log_info - INFO - Slider value updated to: 76
+11_01_25 05:28:13 am - log_info - INFO - Updated the slider value to: 77
+11_01_25 05:28:14 am - log_info - INFO - Slider value updated to: 77
+11_01_25 05:28:14 am - log_info - INFO - Updated the slider value to: 78
+11_01_25 05:28:14 am - log_info - INFO - Slider value updated to: 78
+11_01_25 05:28:14 am - log_info - INFO - Updated the slider value to: 79
+11_01_25 05:28:14 am - log_info - INFO - Slider value updated to: 79
+11_01_25 05:28:14 am - log_info - INFO - Updated the slider value to: 80
+11_01_25 05:28:14 am - log_info - INFO - Slider value updated to: 80
+11_01_25 05:28:14 am - log_info - INFO - Updated the slider value to: 81
+11_01_25 05:28:14 am - log_info - INFO - Slider value updated to: 81
+11_01_25 05:28:14 am - log_info - INFO - Updated the slider value to: 82
+11_01_25 05:28:14 am - log_info - INFO - Slider value updated to: 82
+11_01_25 05:28:14 am - log_info - INFO - Updated the slider value to: 83
+11_01_25 05:28:14 am - log_info - INFO - Slider value updated to: 83
+11_01_25 05:28:14 am - log_info - INFO - Updated the slider value to: 84
+11_01_25 05:28:14 am - log_info - INFO - Slider value updated to: 84
+11_01_25 05:28:14 am - log_info - INFO - Updated the slider value to: 85
+11_01_25 05:28:14 am - log_info - INFO - Slider value updated to: 85
+11_01_25 05:28:14 am - log_info - INFO - Updated the slider value to: 86
+11_01_25 05:28:15 am - log_info - INFO - Slider value updated to: 86
+11_01_25 05:28:15 am - log_info - INFO - Updated the slider value to: 87
+11_01_25 05:28:15 am - log_info - INFO - Slider value updated to: 87
+11_01_25 05:28:15 am - log_info - INFO - Updated the slider value to: 88
+11_01_25 05:28:15 am - log_info - INFO - Slider value updated to: 88
+11_01_25 05:28:15 am - log_info - INFO - Updated the slider value to: 89
+11_01_25 05:28:15 am - log_info - INFO - Slider value updated to: 89
+11_01_25 05:28:15 am - log_info - INFO - Updated the slider value to: 90
+11_01_25 05:28:15 am - log_info - INFO - Slider value updated to: 90
+11_01_25 05:28:15 am - log_info - INFO - Updated the slider value to: 91
+11_01_25 05:28:15 am - log_info - INFO - Slider value updated to: 91
+11_01_25 05:28:15 am - log_info - INFO - Updated the slider value to: 92
+11_01_25 05:28:15 am - log_info - INFO - Slider value updated to: 92
+11_01_25 05:28:15 am - log_info - INFO - Updated the slider value to: 93
+11_01_25 05:28:15 am - log_info - INFO - Slider value updated to: 93
+11_01_25 05:28:15 am - log_info - INFO - Updated the slider value to: 94
+11_01_25 05:28:15 am - log_info - INFO - Slider value updated to: 94
+11_01_25 05:28:16 am - log_info - INFO - Updated the slider value to: 95
+11_01_25 05:28:16 am - log_info - INFO - Slider value updated to: 95
+11_01_25 05:28:16 am - log_info - INFO - Clicked on the slider value: 95
+11_01_25 05:28:16 am - log_info - INFO - Validated the slider value: 95
+11_01_25 05:32:03 am - log_info - INFO - Test to validate interaction with Simple Form Demo on LambdaTest Playground.
+11_01_25 05:32:04 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+11_01_25 05:32:04 am - log_info - INFO - Clicked on the Simple Form Demo link
+11_01_25 05:32:05 am - log_info - INFO - Validated that the URL contains 'simple-form-demo'
+11_01_25 05:32:05 am - log_info - INFO - Entered the message: Welcome to LambdaTest
+11_01_25 05:32:05 am - log_info - INFO - Clicked on the Get Checked Value button
+11_01_25 05:32:05 am - log_info - INFO - Validated the message 'Welcome to LambdaTest' in the Your Message section
+11_01_25 05:32:18 am - log_info - INFO - Test to Drag & Drop Sliders on LambdaTest Playground
+11_01_25 05:32:19 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+11_01_25 05:32:19 am - log_info - INFO - Validated the visibility of the Drag & Drop Sliders link
+11_01_25 05:32:19 am - log_info - INFO - Clicked on the Drag & Drop Sliders link
+11_01_25 05:32:19 am - log_info - INFO - Selected the slider 'Default value 15'
+11_01_25 05:32:19 am - log_info - INFO - Current value of the slider: 15
+11_01_25 05:32:19 am - log_info - INFO - Target value of the slider: 95
+11_01_25 05:32:19 am - log_info - INFO - Updated the slider value to: 16
+11_01_25 05:32:19 am - log_info - INFO - Slider value updated to: 16
+11_01_25 05:32:19 am - log_info - INFO - Updated the slider value to: 17
+11_01_25 05:32:19 am - log_info - INFO - Slider value updated to: 17
+11_01_25 05:32:20 am - log_info - INFO - Updated the slider value to: 18
+11_01_25 05:32:20 am - log_info - INFO - Slider value updated to: 18
+11_01_25 05:32:20 am - log_info - INFO - Updated the slider value to: 19
+11_01_25 05:32:20 am - log_info - INFO - Slider value updated to: 19
+11_01_25 05:32:20 am - log_info - INFO - Updated the slider value to: 20
+11_01_25 05:32:20 am - log_info - INFO - Slider value updated to: 20
+11_01_25 05:32:20 am - log_info - INFO - Updated the slider value to: 21
+11_01_25 05:32:20 am - log_info - INFO - Slider value updated to: 21
+11_01_25 05:32:20 am - log_info - INFO - Updated the slider value to: 22
+11_01_25 05:32:20 am - log_info - INFO - Slider value updated to: 22
+11_01_25 05:32:21 am - log_info - INFO - Updated the slider value to: 23
+11_01_25 05:32:21 am - log_info - INFO - Slider value updated to: 23
+11_01_25 05:32:21 am - log_info - INFO - Updated the slider value to: 24
+11_01_25 05:32:21 am - log_info - INFO - Slider value updated to: 24
+11_01_25 05:32:21 am - log_info - INFO - Updated the slider value to: 25
+11_01_25 05:32:21 am - log_info - INFO - Slider value updated to: 25
+11_01_25 05:32:21 am - log_info - INFO - Updated the slider value to: 26
+11_01_25 05:32:21 am - log_info - INFO - Slider value updated to: 26
+11_01_25 05:32:21 am - log_info - INFO - Updated the slider value to: 27
+11_01_25 05:32:21 am - log_info - INFO - Slider value updated to: 27
+11_01_25 05:32:21 am - log_info - INFO - Updated the slider value to: 28
+11_01_25 05:32:21 am - log_info - INFO - Slider value updated to: 28
+11_01_25 05:32:21 am - log_info - INFO - Updated the slider value to: 29
+11_01_25 05:32:21 am - log_info - INFO - Slider value updated to: 29
+11_01_25 05:32:22 am - log_info - INFO - Updated the slider value to: 30
+11_01_25 05:32:22 am - log_info - INFO - Slider value updated to: 30
+11_01_25 05:32:22 am - log_info - INFO - Updated the slider value to: 31
+11_01_25 05:32:22 am - log_info - INFO - Slider value updated to: 31
+11_01_25 05:32:22 am - log_info - INFO - Updated the slider value to: 32
+11_01_25 05:32:22 am - log_info - INFO - Slider value updated to: 32
+11_01_25 05:32:22 am - log_info - INFO - Updated the slider value to: 33
+11_01_25 05:32:22 am - log_info - INFO - Slider value updated to: 33
+11_01_25 05:32:22 am - log_info - INFO - Updated the slider value to: 34
+11_01_25 05:32:22 am - log_info - INFO - Slider value updated to: 34
+11_01_25 05:32:22 am - log_info - INFO - Updated the slider value to: 35
+11_01_25 05:32:22 am - log_info - INFO - Slider value updated to: 35
+11_01_25 05:32:23 am - log_info - INFO - Updated the slider value to: 36
+11_01_25 05:32:23 am - log_info - INFO - Slider value updated to: 36
+11_01_25 05:32:23 am - log_info - INFO - Updated the slider value to: 37
+11_01_25 05:32:23 am - log_info - INFO - Slider value updated to: 37
+11_01_25 05:32:23 am - log_info - INFO - Updated the slider value to: 38
+11_01_25 05:32:23 am - log_info - INFO - Slider value updated to: 38
+11_01_25 05:32:23 am - log_info - INFO - Updated the slider value to: 39
+11_01_25 05:32:23 am - log_info - INFO - Slider value updated to: 39
+11_01_25 05:32:23 am - log_info - INFO - Updated the slider value to: 40
+11_01_25 05:32:23 am - log_info - INFO - Slider value updated to: 40
+11_01_25 05:32:23 am - log_info - INFO - Updated the slider value to: 41
+11_01_25 05:32:23 am - log_info - INFO - Slider value updated to: 41
+11_01_25 05:32:23 am - log_info - INFO - Updated the slider value to: 42
+11_01_25 05:32:24 am - log_info - INFO - Slider value updated to: 42
+11_01_25 05:32:24 am - log_info - INFO - Updated the slider value to: 43
+11_01_25 05:32:24 am - log_info - INFO - Slider value updated to: 43
+11_01_25 05:32:24 am - log_info - INFO - Updated the slider value to: 44
+11_01_25 05:32:24 am - log_info - INFO - Slider value updated to: 44
+11_01_25 05:32:24 am - log_info - INFO - Updated the slider value to: 45
+11_01_25 05:32:24 am - log_info - INFO - Slider value updated to: 45
+11_01_25 05:32:24 am - log_info - INFO - Updated the slider value to: 46
+11_01_25 05:32:24 am - log_info - INFO - Slider value updated to: 46
+11_01_25 05:32:24 am - log_info - INFO - Updated the slider value to: 47
+11_01_25 05:32:24 am - log_info - INFO - Slider value updated to: 47
+11_01_25 05:32:24 am - log_info - INFO - Updated the slider value to: 48
+11_01_25 05:32:24 am - log_info - INFO - Slider value updated to: 48
+11_01_25 05:32:24 am - log_info - INFO - Updated the slider value to: 49
+11_01_25 05:32:25 am - log_info - INFO - Slider value updated to: 49
+11_01_25 05:32:25 am - log_info - INFO - Updated the slider value to: 50
+11_01_25 05:32:25 am - log_info - INFO - Slider value updated to: 50
+11_01_25 05:32:25 am - log_info - INFO - Updated the slider value to: 51
+11_01_25 05:32:25 am - log_info - INFO - Slider value updated to: 51
+11_01_25 05:32:25 am - log_info - INFO - Updated the slider value to: 52
+11_01_25 05:32:25 am - log_info - INFO - Slider value updated to: 52
+11_01_25 05:32:25 am - log_info - INFO - Updated the slider value to: 53
+11_01_25 05:32:25 am - log_info - INFO - Slider value updated to: 53
+11_01_25 05:32:25 am - log_info - INFO - Updated the slider value to: 54
+11_01_25 05:32:25 am - log_info - INFO - Slider value updated to: 54
+11_01_25 05:32:25 am - log_info - INFO - Updated the slider value to: 55
+11_01_25 05:32:25 am - log_info - INFO - Slider value updated to: 55
+11_01_25 05:32:26 am - log_info - INFO - Updated the slider value to: 56
+11_01_25 05:32:26 am - log_info - INFO - Slider value updated to: 56
+11_01_25 05:32:26 am - log_info - INFO - Updated the slider value to: 57
+11_01_25 05:32:26 am - log_info - INFO - Slider value updated to: 57
+11_01_25 05:32:26 am - log_info - INFO - Updated the slider value to: 58
+11_01_25 05:32:26 am - log_info - INFO - Slider value updated to: 58
+11_01_25 05:32:26 am - log_info - INFO - Updated the slider value to: 59
+11_01_25 05:32:26 am - log_info - INFO - Slider value updated to: 59
+11_01_25 05:32:26 am - log_info - INFO - Updated the slider value to: 60
+11_01_25 05:32:26 am - log_info - INFO - Slider value updated to: 60
+11_01_25 05:32:26 am - log_info - INFO - Updated the slider value to: 61
+11_01_25 05:32:26 am - log_info - INFO - Slider value updated to: 61
+11_01_25 05:32:26 am - log_info - INFO - Updated the slider value to: 62
+11_01_25 05:32:26 am - log_info - INFO - Slider value updated to: 62
+11_01_25 05:32:27 am - log_info - INFO - Updated the slider value to: 63
+11_01_25 05:32:27 am - log_info - INFO - Slider value updated to: 63
+11_01_25 05:32:27 am - log_info - INFO - Updated the slider value to: 64
+11_01_25 05:32:27 am - log_info - INFO - Slider value updated to: 64
+11_01_25 05:32:27 am - log_info - INFO - Updated the slider value to: 65
+11_01_25 05:32:27 am - log_info - INFO - Slider value updated to: 65
+11_01_25 05:32:27 am - log_info - INFO - Updated the slider value to: 66
+11_01_25 05:32:27 am - log_info - INFO - Slider value updated to: 66
+11_01_25 05:32:27 am - log_info - INFO - Updated the slider value to: 67
+11_01_25 05:32:27 am - log_info - INFO - Slider value updated to: 67
+11_01_25 05:32:27 am - log_info - INFO - Updated the slider value to: 68
+11_01_25 05:32:27 am - log_info - INFO - Slider value updated to: 68
+11_01_25 05:32:27 am - log_info - INFO - Updated the slider value to: 69
+11_01_25 05:32:27 am - log_info - INFO - Slider value updated to: 69
+11_01_25 05:32:28 am - log_info - INFO - Updated the slider value to: 70
+11_01_25 05:32:28 am - log_info - INFO - Slider value updated to: 70
+11_01_25 05:32:28 am - log_info - INFO - Updated the slider value to: 71
+11_01_25 05:32:28 am - log_info - INFO - Slider value updated to: 71
+11_01_25 05:32:28 am - log_info - INFO - Updated the slider value to: 72
+11_01_25 05:32:28 am - log_info - INFO - Slider value updated to: 72
+11_01_25 05:32:28 am - log_info - INFO - Updated the slider value to: 73
+11_01_25 05:32:28 am - log_info - INFO - Slider value updated to: 73
+11_01_25 05:32:28 am - log_info - INFO - Updated the slider value to: 74
+11_01_25 05:32:28 am - log_info - INFO - Slider value updated to: 74
+11_01_25 05:32:28 am - log_info - INFO - Updated the slider value to: 75
+11_01_25 05:32:28 am - log_info - INFO - Slider value updated to: 75
+11_01_25 05:32:28 am - log_info - INFO - Updated the slider value to: 76
+11_01_25 05:32:29 am - log_info - INFO - Slider value updated to: 76
+11_01_25 05:32:29 am - log_info - INFO - Updated the slider value to: 77
+11_01_25 05:32:29 am - log_info - INFO - Slider value updated to: 77
+11_01_25 05:32:29 am - log_info - INFO - Updated the slider value to: 78
+11_01_25 05:32:29 am - log_info - INFO - Slider value updated to: 78
+11_01_25 05:32:29 am - log_info - INFO - Updated the slider value to: 79
+11_01_25 05:32:29 am - log_info - INFO - Slider value updated to: 79
+11_01_25 05:32:29 am - log_info - INFO - Updated the slider value to: 80
+11_01_25 05:32:29 am - log_info - INFO - Slider value updated to: 80
+11_01_25 05:32:29 am - log_info - INFO - Updated the slider value to: 81
+11_01_25 05:32:29 am - log_info - INFO - Slider value updated to: 81
+11_01_25 05:32:29 am - log_info - INFO - Updated the slider value to: 82
+11_01_25 05:32:29 am - log_info - INFO - Slider value updated to: 82
+11_01_25 05:32:29 am - log_info - INFO - Updated the slider value to: 83
+11_01_25 05:32:30 am - log_info - INFO - Slider value updated to: 83
+11_01_25 05:32:30 am - log_info - INFO - Updated the slider value to: 84
+11_01_25 05:32:30 am - log_info - INFO - Slider value updated to: 84
+11_01_25 05:32:30 am - log_info - INFO - Updated the slider value to: 85
+11_01_25 05:32:30 am - log_info - INFO - Slider value updated to: 85
+11_01_25 05:32:30 am - log_info - INFO - Updated the slider value to: 86
+11_01_25 05:32:30 am - log_info - INFO - Slider value updated to: 86
+11_01_25 05:32:30 am - log_info - INFO - Updated the slider value to: 87
+11_01_25 05:32:30 am - log_info - INFO - Slider value updated to: 87
+11_01_25 05:32:30 am - log_info - INFO - Updated the slider value to: 88
+11_01_25 05:32:30 am - log_info - INFO - Slider value updated to: 88
+11_01_25 05:32:30 am - log_info - INFO - Updated the slider value to: 89
+11_01_25 05:32:30 am - log_info - INFO - Slider value updated to: 89
+11_01_25 05:32:30 am - log_info - INFO - Updated the slider value to: 90
+11_01_25 05:32:31 am - log_info - INFO - Slider value updated to: 90
+11_01_25 05:32:31 am - log_info - INFO - Updated the slider value to: 91
+11_01_25 05:32:31 am - log_info - INFO - Slider value updated to: 91
+11_01_25 05:32:31 am - log_info - INFO - Updated the slider value to: 92
+11_01_25 05:32:31 am - log_info - INFO - Slider value updated to: 92
+11_01_25 05:32:31 am - log_info - INFO - Updated the slider value to: 93
+11_01_25 05:32:31 am - log_info - INFO - Slider value updated to: 93
+11_01_25 05:32:31 am - log_info - INFO - Updated the slider value to: 94
+11_01_25 05:32:31 am - log_info - INFO - Slider value updated to: 94
+11_01_25 05:32:31 am - log_info - INFO - Updated the slider value to: 95
+11_01_25 05:32:31 am - log_info - INFO - Slider value updated to: 95
+11_01_25 05:32:31 am - log_info - INFO - Clicked on the slider value: 95
+11_01_25 05:32:31 am - log_info - INFO - Validated the slider value: 95
+11_01_25 05:32:41 am - log_info - INFO - Test to validate Input Form Submit on LambdaTest Playground
+11_01_25 05:32:41 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+11_01_25 05:32:41 am - log_info - INFO - Clicked on the Input Form Submit link
+11_01_25 05:32:41 am - log_info - INFO - Clicked on the Submit button
+11_01_25 05:32:42 am - log_info - INFO - Validated the error message 'Please fill out this field.'
+11_01_25 05:32:42 am - log_info - INFO - Filled in the Name field
+11_01_25 05:32:42 am - log_info - INFO - Filled in the Email field
+11_01_25 05:32:42 am - log_info - INFO - Filled in the Password field
+11_01_25 05:32:42 am - log_info - INFO - Filled in the Company field
+11_01_25 05:32:42 am - log_info - INFO - Filled in the Website field
+11_01_25 05:32:42 am - log_info - INFO - Selected 'United States' from the Country drop-down
+11_01_25 05:32:42 am - log_info - INFO - Filled in the City field
+11_01_25 05:32:43 am - log_info - INFO - Filled in the Address 1 field
+11_01_25 05:32:43 am - log_info - INFO - Filled in the Address 2 field
+11_01_25 05:32:43 am - log_info - INFO - Filled in the State field
+11_01_25 05:32:43 am - log_info - INFO - Filled in the Zip code field
+11_01_25 05:32:43 am - log_info - INFO - Clicked on the Submit button
+11_01_25 05:32:43 am - log_info - INFO - Validated the success message 'Thanks for contacting us, we will get back to you shortly.'
+11_01_25 05:32:54 am - log_info - INFO - Test to validate interaction with Simple Form Demo on LambdaTest Playground.
+11_01_25 05:32:55 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+11_01_25 05:32:55 am - log_info - INFO - Clicked on the Simple Form Demo link
+11_01_25 05:32:55 am - log_info - INFO - Validated that the URL contains 'simple-form-demo'
+11_01_25 05:32:55 am - log_info - INFO - Entered the message: Welcome to LambdaTest
+11_01_25 05:32:55 am - log_info - INFO - Clicked on the Get Checked Value button
+11_01_25 05:32:55 am - log_info - INFO - Validated the message 'Welcome to LambdaTest' in the Your Message section
+11_01_25 05:33:04 am - log_info - INFO - Test to Drag & Drop Sliders on LambdaTest Playground
+11_01_25 05:33:06 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+11_01_25 05:33:06 am - log_info - INFO - Validated the visibility of the Drag & Drop Sliders link
+11_01_25 05:33:06 am - log_info - INFO - Clicked on the Drag & Drop Sliders link
+11_01_25 05:33:06 am - log_info - INFO - Selected the slider 'Default value 15'
+11_01_25 05:33:06 am - log_info - INFO - Current value of the slider: 15
+11_01_25 05:33:06 am - log_info - INFO - Target value of the slider: 95
+11_01_25 05:33:06 am - log_info - INFO - Updated the slider value to: 16
+11_01_25 05:33:06 am - log_info - INFO - Slider value updated to: 16
+11_01_25 05:33:06 am - log_info - INFO - Updated the slider value to: 17
+11_01_25 05:33:06 am - log_info - INFO - Slider value updated to: 17
+11_01_25 05:33:06 am - log_info - INFO - Updated the slider value to: 18
+11_01_25 05:33:06 am - log_info - INFO - Slider value updated to: 18
+11_01_25 05:33:07 am - log_info - INFO - Updated the slider value to: 19
+11_01_25 05:33:07 am - log_info - INFO - Slider value updated to: 19
+11_01_25 05:33:07 am - log_info - INFO - Updated the slider value to: 20
+11_01_25 05:33:07 am - log_info - INFO - Slider value updated to: 20
+11_01_25 05:33:07 am - log_info - INFO - Updated the slider value to: 21
+11_01_25 05:33:07 am - log_info - INFO - Slider value updated to: 21
+11_01_25 05:33:07 am - log_info - INFO - Updated the slider value to: 22
+11_01_25 05:33:07 am - log_info - INFO - Slider value updated to: 22
+11_01_25 05:33:07 am - log_info - INFO - Updated the slider value to: 23
+11_01_25 05:33:07 am - log_info - INFO - Slider value updated to: 23
+11_01_25 05:33:07 am - log_info - INFO - Updated the slider value to: 24
+11_01_25 05:33:07 am - log_info - INFO - Slider value updated to: 24
+11_01_25 05:33:07 am - log_info - INFO - Updated the slider value to: 25
+11_01_25 05:33:08 am - log_info - INFO - Slider value updated to: 25
+11_01_25 05:33:08 am - log_info - INFO - Updated the slider value to: 26
+11_01_25 05:33:08 am - log_info - INFO - Slider value updated to: 26
+11_01_25 05:33:08 am - log_info - INFO - Updated the slider value to: 27
+11_01_25 05:33:08 am - log_info - INFO - Slider value updated to: 27
+11_01_25 05:33:08 am - log_info - INFO - Updated the slider value to: 28
+11_01_25 05:33:08 am - log_info - INFO - Slider value updated to: 28
+11_01_25 05:33:08 am - log_info - INFO - Updated the slider value to: 29
+11_01_25 05:33:08 am - log_info - INFO - Slider value updated to: 29
+11_01_25 05:33:08 am - log_info - INFO - Updated the slider value to: 30
+11_01_25 05:33:08 am - log_info - INFO - Slider value updated to: 30
+11_01_25 05:33:09 am - log_info - INFO - Updated the slider value to: 31
+11_01_25 05:33:09 am - log_info - INFO - Slider value updated to: 31
+11_01_25 05:33:09 am - log_info - INFO - Updated the slider value to: 32
+11_01_25 05:33:09 am - log_info - INFO - Slider value updated to: 32
+11_01_25 05:33:09 am - log_info - INFO - Updated the slider value to: 33
+11_01_25 05:33:09 am - log_info - INFO - Slider value updated to: 33
+11_01_25 05:33:09 am - log_info - INFO - Updated the slider value to: 34
+11_01_25 05:33:09 am - log_info - INFO - Slider value updated to: 34
+11_01_25 05:33:09 am - log_info - INFO - Updated the slider value to: 35
+11_01_25 05:33:09 am - log_info - INFO - Slider value updated to: 35
+11_01_25 05:33:09 am - log_info - INFO - Updated the slider value to: 36
+11_01_25 05:33:09 am - log_info - INFO - Slider value updated to: 36
+11_01_25 05:33:09 am - log_info - INFO - Updated the slider value to: 37
+11_01_25 05:33:09 am - log_info - INFO - Slider value updated to: 37
+11_01_25 05:33:10 am - log_info - INFO - Updated the slider value to: 38
+11_01_25 05:33:10 am - log_info - INFO - Slider value updated to: 38
+11_01_25 05:33:10 am - log_info - INFO - Updated the slider value to: 39
+11_01_25 05:33:10 am - log_info - INFO - Slider value updated to: 39
+11_01_25 05:33:10 am - log_info - INFO - Updated the slider value to: 40
+11_01_25 05:33:10 am - log_info - INFO - Slider value updated to: 40
+11_01_25 05:33:10 am - log_info - INFO - Updated the slider value to: 41
+11_01_25 05:33:10 am - log_info - INFO - Slider value updated to: 41
+11_01_25 05:33:10 am - log_info - INFO - Updated the slider value to: 42
+11_01_25 05:33:10 am - log_info - INFO - Slider value updated to: 42
+11_01_25 05:33:10 am - log_info - INFO - Updated the slider value to: 43
+11_01_25 05:33:10 am - log_info - INFO - Slider value updated to: 43
+11_01_25 05:33:10 am - log_info - INFO - Updated the slider value to: 44
+11_01_25 05:33:10 am - log_info - INFO - Slider value updated to: 44
+11_01_25 05:33:10 am - log_info - INFO - Updated the slider value to: 45
+11_01_25 05:33:10 am - log_info - INFO - Slider value updated to: 45
+11_01_25 05:33:10 am - log_info - INFO - Updated the slider value to: 46
+11_01_25 05:33:10 am - log_info - INFO - Slider value updated to: 46
+11_01_25 05:33:11 am - log_info - INFO - Updated the slider value to: 47
+11_01_25 05:33:11 am - log_info - INFO - Slider value updated to: 47
+11_01_25 05:33:11 am - log_info - INFO - Updated the slider value to: 48
+11_01_25 05:33:11 am - log_info - INFO - Slider value updated to: 48
+11_01_25 05:33:11 am - log_info - INFO - Updated the slider value to: 49
+11_01_25 05:33:11 am - log_info - INFO - Slider value updated to: 49
+11_01_25 05:33:11 am - log_info - INFO - Updated the slider value to: 50
+11_01_25 05:33:11 am - log_info - INFO - Slider value updated to: 50
+11_01_25 05:33:11 am - log_info - INFO - Updated the slider value to: 51
+11_01_25 05:33:11 am - log_info - INFO - Slider value updated to: 51
+11_01_25 05:33:11 am - log_info - INFO - Updated the slider value to: 52
+11_01_25 05:33:11 am - log_info - INFO - Slider value updated to: 52
+11_01_25 05:33:11 am - log_info - INFO - Updated the slider value to: 53
+11_01_25 05:33:11 am - log_info - INFO - Slider value updated to: 53
+11_01_25 05:33:11 am - log_info - INFO - Updated the slider value to: 54
+11_01_25 05:33:11 am - log_info - INFO - Slider value updated to: 54
+11_01_25 05:33:11 am - log_info - INFO - Updated the slider value to: 55
+11_01_25 05:33:12 am - log_info - INFO - Slider value updated to: 55
+11_01_25 05:33:12 am - log_info - INFO - Updated the slider value to: 56
+11_01_25 05:33:12 am - log_info - INFO - Slider value updated to: 56
+11_01_25 05:33:12 am - log_info - INFO - Updated the slider value to: 57
+11_01_25 05:33:12 am - log_info - INFO - Slider value updated to: 57
+11_01_25 05:33:12 am - log_info - INFO - Updated the slider value to: 58
+11_01_25 05:33:12 am - log_info - INFO - Slider value updated to: 58
+11_01_25 05:33:12 am - log_info - INFO - Updated the slider value to: 59
+11_01_25 05:33:12 am - log_info - INFO - Slider value updated to: 59
+11_01_25 05:33:12 am - log_info - INFO - Updated the slider value to: 60
+11_01_25 05:33:12 am - log_info - INFO - Slider value updated to: 60
+11_01_25 05:33:12 am - log_info - INFO - Updated the slider value to: 61
+11_01_25 05:33:12 am - log_info - INFO - Slider value updated to: 61
+11_01_25 05:33:12 am - log_info - INFO - Updated the slider value to: 62
+11_01_25 05:33:12 am - log_info - INFO - Slider value updated to: 62
+11_01_25 05:33:12 am - log_info - INFO - Updated the slider value to: 63
+11_01_25 05:33:12 am - log_info - INFO - Slider value updated to: 63
+11_01_25 05:33:13 am - log_info - INFO - Updated the slider value to: 64
+11_01_25 05:33:13 am - log_info - INFO - Slider value updated to: 64
+11_01_25 05:33:13 am - log_info - INFO - Updated the slider value to: 65
+11_01_25 05:33:13 am - log_info - INFO - Slider value updated to: 65
+11_01_25 05:33:13 am - log_info - INFO - Updated the slider value to: 66
+11_01_25 05:33:13 am - log_info - INFO - Slider value updated to: 66
+11_01_25 05:33:13 am - log_info - INFO - Updated the slider value to: 67
+11_01_25 05:33:13 am - log_info - INFO - Slider value updated to: 67
+11_01_25 05:33:13 am - log_info - INFO - Updated the slider value to: 68
+11_01_25 05:33:13 am - log_info - INFO - Slider value updated to: 68
+11_01_25 05:33:13 am - log_info - INFO - Updated the slider value to: 69
+11_01_25 05:33:13 am - log_info - INFO - Slider value updated to: 69
+11_01_25 05:33:14 am - log_info - INFO - Updated the slider value to: 70
+11_01_25 05:33:14 am - log_info - INFO - Slider value updated to: 70
+11_01_25 05:33:14 am - log_info - INFO - Updated the slider value to: 71
+11_01_25 05:33:14 am - log_info - INFO - Slider value updated to: 71
+11_01_25 05:33:14 am - log_info - INFO - Updated the slider value to: 72
+11_01_25 05:33:14 am - log_info - INFO - Slider value updated to: 72
+11_01_25 05:33:14 am - log_info - INFO - Updated the slider value to: 73
+11_01_25 05:33:14 am - log_info - INFO - Slider value updated to: 73
+11_01_25 05:33:14 am - log_info - INFO - Updated the slider value to: 74
+11_01_25 05:33:14 am - log_info - INFO - Slider value updated to: 74
+11_01_25 05:33:14 am - log_info - INFO - Updated the slider value to: 75
+11_01_25 05:33:14 am - log_info - INFO - Slider value updated to: 75
+11_01_25 05:33:14 am - log_info - INFO - Updated the slider value to: 76
+11_01_25 05:33:14 am - log_info - INFO - Slider value updated to: 76
+11_01_25 05:33:14 am - log_info - INFO - Updated the slider value to: 77
+11_01_25 05:33:14 am - log_info - INFO - Slider value updated to: 77
+11_01_25 05:33:14 am - log_info - INFO - Updated the slider value to: 78
+11_01_25 05:33:15 am - log_info - INFO - Slider value updated to: 78
+11_01_25 05:33:15 am - log_info - INFO - Updated the slider value to: 79
+11_01_25 05:33:15 am - log_info - INFO - Slider value updated to: 79
+11_01_25 05:33:15 am - log_info - INFO - Updated the slider value to: 80
+11_01_25 05:33:15 am - log_info - INFO - Slider value updated to: 80
+11_01_25 05:33:15 am - log_info - INFO - Updated the slider value to: 81
+11_01_25 05:33:15 am - log_info - INFO - Slider value updated to: 81
+11_01_25 05:33:15 am - log_info - INFO - Updated the slider value to: 82
+11_01_25 05:33:15 am - log_info - INFO - Slider value updated to: 82
+11_01_25 05:33:15 am - log_info - INFO - Updated the slider value to: 83
+11_01_25 05:33:15 am - log_info - INFO - Slider value updated to: 83
+11_01_25 05:33:16 am - log_info - INFO - Updated the slider value to: 84
+11_01_25 05:33:16 am - log_info - INFO - Slider value updated to: 84
+11_01_25 05:33:16 am - log_info - INFO - Updated the slider value to: 85
+11_01_25 05:33:16 am - log_info - INFO - Slider value updated to: 85
+11_01_25 05:33:16 am - log_info - INFO - Updated the slider value to: 86
+11_01_25 05:33:16 am - log_info - INFO - Slider value updated to: 86
+11_01_25 05:33:16 am - log_info - INFO - Updated the slider value to: 87
+11_01_25 05:33:16 am - log_info - INFO - Slider value updated to: 87
+11_01_25 05:33:16 am - log_info - INFO - Updated the slider value to: 88
+11_01_25 05:33:16 am - log_info - INFO - Slider value updated to: 88
+11_01_25 05:33:16 am - log_info - INFO - Updated the slider value to: 89
+11_01_25 05:33:16 am - log_info - INFO - Slider value updated to: 89
+11_01_25 05:33:16 am - log_info - INFO - Updated the slider value to: 90
+11_01_25 05:33:16 am - log_info - INFO - Slider value updated to: 90
+11_01_25 05:33:16 am - log_info - INFO - Updated the slider value to: 91
+11_01_25 05:33:16 am - log_info - INFO - Slider value updated to: 91
+11_01_25 05:33:17 am - log_info - INFO - Updated the slider value to: 92
+11_01_25 05:33:17 am - log_info - INFO - Slider value updated to: 92
+11_01_25 05:33:17 am - log_info - INFO - Updated the slider value to: 93
+11_01_25 05:33:17 am - log_info - INFO - Slider value updated to: 93
+11_01_25 05:33:17 am - log_info - INFO - Updated the slider value to: 94
+11_01_25 05:33:17 am - log_info - INFO - Slider value updated to: 94
+11_01_25 05:33:17 am - log_info - INFO - Updated the slider value to: 95
+11_01_25 05:33:17 am - log_info - INFO - Slider value updated to: 95
+11_01_25 05:33:17 am - log_info - INFO - Clicked on the slider value: 95
+11_01_25 05:33:17 am - log_info - INFO - Validated the slider value: 95
+11_01_25 05:33:29 am - log_info - INFO - Test to validate Input Form Submit on LambdaTest Playground
+11_01_25 05:33:30 am - log_info - INFO - Opened the https://www.lambdatest.com/selenium-playground page
+11_01_25 05:33:30 am - log_info - INFO - Clicked on the Input Form Submit link
+11_01_25 05:33:30 am - log_info - INFO - Clicked on the Submit button
+11_01_25 05:33:31 am - log_info - INFO - Validated the error message 'Please fill out this field.'
+11_01_25 05:33:31 am - log_info - INFO - Filled in the Name field
+11_01_25 05:33:31 am - log_info - INFO - Filled in the Email field
+11_01_25 05:33:31 am - log_info - INFO - Filled in the Password field
+11_01_25 05:33:31 am - log_info - INFO - Filled in the Company field
+11_01_25 05:33:31 am - log_info - INFO - Filled in the Website field
+11_01_25 05:33:32 am - log_info - INFO - Selected 'United States' from the Country drop-down
+11_01_25 05:33:32 am - log_info - INFO - Filled in the City field
+11_01_25 05:33:32 am - log_info - INFO - Filled in the Address 1 field
+11_01_25 05:33:32 am - log_info - INFO - Filled in the Address 2 field
+11_01_25 05:33:32 am - log_info - INFO - Filled in the State field
+11_01_25 05:33:32 am - log_info - INFO - Filled in the Zip code field
+11_01_25 05:33:32 am - log_info - INFO - Clicked on the Submit button
+11_01_25 05:33:32 am - log_info - INFO - Validated the success message 'Thanks for contacting us, we will get back to you shortly.'

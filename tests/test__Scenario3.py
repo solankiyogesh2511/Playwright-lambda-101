@@ -1,8 +1,31 @@
 import pytest
-from playwright.sync_api import expect
+from playwright.sync_api import expect, sync_playwright
 from helper.logger import LoggerHelper
+import json
+import os
+import urllib
+import subprocess
+import re
     
-def test_Input_Form_Submit(page):
+capabilities = {
+    'browserName': 'Chrome',  # Browsers allowed: `Chrome`, `MicrosoftEdge`, `pw-chromium`, `pw-firefox` and `pw-webkit`
+    'browserVersion': 'latest',
+    'LT:Options': {
+        'platform': 'Windows 10',
+        'build': 'Playwright Python Build',
+        'name': 'Playwright Test',
+        'user': os.getenv('LT_USERNAME'),
+        'accessKey': os.getenv('LT_ACCESS_KEY'),
+        'network': True,
+        'video': True,
+        'console': True,
+        'tunnel': False,  # Add tunnel configuration if testing locally hosted webpage
+        'tunnelName': '',  # Optional
+        'geoLocation': '', # country code can be fetched from https://www.lambdatest.com/capabilities-generator/
+    }
+}
+    
+def test_Input_Form_Submit(playwright):
     """
     Test to validate Input Form Submit on LambdaTest Playground.
     Steps:
@@ -15,6 +38,14 @@ def test_Input_Form_Submit(page):
     7. Once submitted, validate the success message "Thanks for contacting us, we will get back to you shortly." on the screen.
     """
     # Initialize page object
+    playwrightVersion = str(subprocess.getoutput('playwright --version')).strip().split(" ")[1]
+    capabilities['LT:Options']['playwrightClientVersion'] = playwrightVersion
+
+    lt_cdp_url = 'wss://cdp.lambdatest.com/playwright?capabilities=' + urllib.parse.quote(
+        json.dumps(capabilities))
+    browser = playwright.chromium.connect(lt_cdp_url, timeout=120000)
+    page = browser.new_page()
+    
     #1) Open the https://www.lambdatest.com/selenium-playground page and click“Input Form Submit”
     LoggerHelper.log_info("Test to validate Input Form Submit on LambdaTest Playground")
     page.goto("https://www.lambdatest.com/selenium-playground/")
@@ -65,3 +96,9 @@ def test_Input_Form_Submit(page):
     page.wait_for_selector('text="Thanks for contacting us, we will get back to you shortly."')
     expect(page.locator('text="Thanks for contacting us, we will get back to you shortly."')).to_be_visible()
     LoggerHelper.log_info("Validated the success message 'Thanks for contacting us, we will get back to you shortly.'")  
+    
+    page.close()
+    browser.close()
+    
+with sync_playwright() as playwright:
+        test_Input_Form_Submit(playwright)
