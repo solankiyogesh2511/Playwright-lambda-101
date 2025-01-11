@@ -44,23 +44,26 @@ Please follow below steps for framework understanding
 
 5. Set up Playwright:
    ```bash
-   sudo playwright install-deps
-   npx playwright install
+   playwright install-deps
+   playwright install
    ```
 
 ## Usage
 
 ### Run Tests
-Run Python tests using Pytest:
+Run Python tests using Poetry:
 ```bash
 poetry run pytest
 ```
 
 Run Playwright tests:
 ```bash
-node playwright-single.js
+pytest
 ```
-
+Run Parallel Playwright tests:
+```bash
+pytest --numprocesses 3
+```
 ## Contributing
 
 1. Fork the repository
