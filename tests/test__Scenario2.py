@@ -41,8 +41,7 @@ def test_Drag_And_Drop_Sliders(playwright):
     playwrightVersion = str(subprocess.getoutput('playwright --version')).strip().split(" ")[1]
     capabilities['LT:Options']['playwrightClientVersion'] = playwrightVersion
 
-    lt_cdp_url = 'wss://cdp.lambdatest.com/playwright?capabilities=' + urllib.parse.quote(
-        json.dumps(capabilities))
+    lt_cdp_url = f"wss://cdp.lambdatest.com/playwright?capabilities={urllib.parse.quote(json.dumps(capabilities))}"
     browser = playwright.chromium.connect(lt_cdp_url, timeout=120000)
     page = browser.new_page()
     
