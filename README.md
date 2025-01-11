@@ -14,8 +14,8 @@ Please follow below steps for framework understanding
 
 ### Prerequisites
 - Python 3.x
-- Node.js
 - Poetry
+- Pytest
 - Playwright
 
 ### Steps
@@ -32,9 +32,9 @@ Please follow below steps for framework understanding
    poetry install
    ```
 
-3. Install Node.js dependencies:
+3. Install Pytest:
    ```bash
-   npm install
+   poetry add pytest
    ```
 
 4. Install additional Python dependencies:
